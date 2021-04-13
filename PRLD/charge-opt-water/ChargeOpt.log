@@ -1,0 +1,3064 @@
+Current test charges: N1 -0.858   H1 0.354   C2 C5 0.117   C3 C4 -0.225   
+Iteration: 0
+N1 QME: -7.532 MME: -7.617 (-0.086)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.828 (0.026)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.972 (0.073)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.557 (0.106)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.808 (0.243)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.833 (0.103)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.808 (0.245)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.833 (0.099)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.972 (0.075)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.556 (0.105)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.712 -0.318} (1.741 D) Ratio: 1.20
+Current objective value: 16.027248 ( En: 4.515474  Dist: 11.500000 Dipole: 0.011775 )
+
+
+Current test charges: N1 -0.331   H1 0.862   C2 C5 0.172   C3 C4 -0.797   
+Iteration: 1
+N1 QME: -7.532 MME: 3.815 (11.347)  QMD: 3.031 MMDistDelta: 0.400
+H1 QME: -2.854 MME: -28.108 (-25.254)  QMD: 2.314 MMDistDelta: -0.400
+H21 QME: -1.045 MME: -3.075 (-2.031)  QMD: 2.777 MMDistDelta: 0.000
+H22 QME: -0.663 MME: -0.783 (-0.119)  QMD: 2.836 MMDistDelta: 0.050
+H31 QME: -1.052 MME: 1.921 (2.973)  QMD: 2.857 MMDistDelta: 0.400
+H32 QME: -0.936 MME: 3.550 (4.485)  QMD: 2.845 MMDistDelta: 0.400
+H41 QME: -1.052 MME: 1.916 (2.968)  QMD: 2.859 MMDistDelta: 0.400
+H42 QME: -0.932 MME: 3.588 (4.521)  QMD: 2.823 MMDistDelta: 0.400
+H51 QME: -1.047 MME: -3.072 (-2.025)  QMD: 2.777 MMDistDelta: 0.000
+H52 QME: -0.661 MME: -0.784 (-0.123)  QMD: 2.839 MMDistDelta: 0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {-0.079 -10.553 -3.386} (11.083 D) Ratio: 7.62
+Current objective value: 64645.354383 ( En: 20824.429382  Dist: 96.500000 Dipole: 43724.425001 )
+
+
+Current test charges: N1 -0.798   H1 0.601   C2 C5 0.183   C3 C4 -0.444   
+Iteration: 2
+N1 QME: -7.532 MME: -3.800 (3.732)  QMD: 3.031 MMDistDelta: 0.100
+H1 QME: -2.854 MME: -12.474 (-9.620)  QMD: 2.314 MMDistDelta: -0.400
+H21 QME: -1.045 MME: -1.811 (-0.766)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -0.623 (0.040)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: 0.212 (1.263)  QMD: 2.857 MMDistDelta: 0.400
+H32 QME: -0.936 MME: 0.823 (1.759)  QMD: 2.845 MMDistDelta: 0.400
+H41 QME: -1.052 MME: 0.211 (1.263)  QMD: 2.859 MMDistDelta: 0.400
+H42 QME: -0.932 MME: 0.831 (1.763)  QMD: 2.823 MMDistDelta: 0.400
+H51 QME: -1.047 MME: -1.810 (-0.763)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -0.623 (0.038)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {-0.019 -2.647 -1.569} (3.077 D) Ratio: 2.11
+Current objective value: 8223.671743 ( En: 2925.630737  Dist: 83.500000 Dipole: 5214.541006 )
+
+
+Current test charges: N1 -0.181   H1 0.296   C2 C5 0.262   C3 C4 -0.680   
+Iteration: 3
+N1 QME: -7.532 MME: 1.583 (9.114)  QMD: 3.031 MMDistDelta: 0.400
+H1 QME: -2.854 MME: -8.721 (-5.867)  QMD: 2.314 MMDistDelta: -0.300
+H21 QME: -1.045 MME: -2.604 (-1.559)  QMD: 2.777 MMDistDelta: 0.000
+H22 QME: -0.663 MME: -2.051 (-1.388)  QMD: 2.836 MMDistDelta: -0.050
+H31 QME: -1.052 MME: 1.672 (2.723)  QMD: 2.857 MMDistDelta: 0.400
+H32 QME: -0.936 MME: 2.164 (3.100)  QMD: 2.845 MMDistDelta: 0.400
+H41 QME: -1.052 MME: 1.669 (2.721)  QMD: 2.859 MMDistDelta: 0.400
+H42 QME: -0.932 MME: 2.187 (3.120)  QMD: 2.823 MMDistDelta: 0.400
+H51 QME: -1.047 MME: -2.603 (-1.556)  QMD: 2.777 MMDistDelta: 0.000
+H52 QME: -0.661 MME: -2.053 (-1.391)  QMD: 2.839 MMDistDelta: -0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {-0.054 -7.155 -0.083} (7.155 D) Ratio: 4.92
+Current objective value: 24324.561880 ( En: 4009.195464  Dist: 89.500000 Dipole: 20225.866417 )
+
+
+Current test charges: N1 -0.277   H1 0.227   C2 C5 0.613   C3 C4 -0.948   
+Iteration: 4
+N1 QME: -7.532 MME: 2.049 (9.581)  QMD: 3.031 MMDistDelta: 0.400
+H1 QME: -2.854 MME: -7.646 (-4.792)  QMD: 2.314 MMDistDelta: -0.250
+H21 QME: -1.045 MME: -3.838 (-2.793)  QMD: 2.777 MMDistDelta: -0.050
+H22 QME: -0.663 MME: -3.743 (-3.079)  QMD: 2.836 MMDistDelta: -0.100
+H31 QME: -1.052 MME: 2.895 (3.947)  QMD: 2.857 MMDistDelta: 0.400
+H32 QME: -0.936 MME: 3.216 (4.152)  QMD: 2.845 MMDistDelta: 0.400
+H41 QME: -1.052 MME: 2.891 (3.944)  QMD: 2.859 MMDistDelta: 0.400
+H42 QME: -0.932 MME: 3.253 (4.185)  QMD: 2.823 MMDistDelta: 0.400
+H51 QME: -1.047 MME: -3.838 (-2.791)  QMD: 2.777 MMDistDelta: -0.050
+H52 QME: -0.661 MME: -3.743 (-3.081)  QMD: 2.839 MMDistDelta: -0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {-0.079 -10.283 1.291} (10.364 D) Ratio: 7.12
+Current objective value: 46774.863670 ( En: 5380.173542  Dist: 88.750000 Dipole: 41305.940128 )
+
+
+Current test charges: N1 -0.841   H1 0.974   C2 C5 0.314   C3 C4 -0.740   
+Iteration: 5
+N1 QME: -7.532 MME: -0.061 (7.471)  QMD: 3.031 MMDistDelta: 0.200
+H1 QME: -2.854 MME: -27.502 (-24.648)  QMD: 2.314 MMDistDelta: -0.400
+H21 QME: -1.045 MME: -3.020 (-1.975)  QMD: 2.777 MMDistDelta: 0.000
+H22 QME: -0.663 MME: -0.720 (-0.056)  QMD: 2.836 MMDistDelta: 0.050
+H31 QME: -1.052 MME: 1.406 (2.458)  QMD: 2.857 MMDistDelta: 0.400
+H32 QME: -0.936 MME: 2.858 (3.793)  QMD: 2.845 MMDistDelta: 0.400
+H41 QME: -1.052 MME: 1.403 (2.455)  QMD: 2.859 MMDistDelta: 0.400
+H42 QME: -0.932 MME: 2.889 (3.821)  QMD: 2.823 MMDistDelta: 0.400
+H51 QME: -1.047 MME: -3.017 (-1.970)  QMD: 2.777 MMDistDelta: 0.000
+H52 QME: -0.661 MME: -0.720 (-0.059)  QMD: 2.839 MMDistDelta: 0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {-0.061 -8.202 -3.286} (8.836 D) Ratio: 6.07
+Current objective value: 44621.938731 ( En: 17804.316352  Dist: 84.500000 Dipole: 26733.122379 )
+
+
+Current test charges: N1 -0.929   H1 0.007   C2 C5 0.462   C3 C4 -0.361   
+Iteration: 6
+N1 QME: -7.532 MME: -9.870 (-2.338)  QMD: 3.031 MMDistDelta: -0.050
+H1 QME: -2.854 MME: 3.170 (6.024)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -1.586 (-0.541)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -2.478 (-1.815)  QMD: 2.836 MMDistDelta: -0.050
+H31 QME: -1.052 MME: 0.002 (1.054)  QMD: 2.857 MMDistDelta: 0.250
+H32 QME: -0.936 MME: -0.845 (0.091)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: 0.004 (1.056)  QMD: 2.859 MMDistDelta: 0.250
+H42 QME: -0.932 MME: -0.846 (0.086)  QMD: 2.823 MMDistDelta: 0.200
+H51 QME: -1.047 MME: -1.587 (-0.540)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -2.476 (-1.815)  QMD: 2.839 MMDistDelta: -0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.011 1.494 2.577} (2.979 D) Ratio: 2.05
+Current objective value: 3577.974371 ( En: 1279.346397  Dist: 36.000000 Dipole: 2262.627974 )
+
+
+Current test charges: N1 -0.929   H1 0.007   C2 C5 0.462   C3 C4 -0.361   
+Iteration: 7
+N1 QME: -7.532 MME: -9.870 (-2.338)  QMD: 3.031 MMDistDelta: -0.050
+H1 QME: -2.854 MME: 3.170 (6.024)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -1.586 (-0.541)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -2.478 (-1.815)  QMD: 2.836 MMDistDelta: -0.050
+H31 QME: -1.052 MME: 0.002 (1.054)  QMD: 2.857 MMDistDelta: 0.250
+H32 QME: -0.936 MME: -0.845 (0.091)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: 0.004 (1.056)  QMD: 2.859 MMDistDelta: 0.250
+H42 QME: -0.932 MME: -0.846 (0.086)  QMD: 2.823 MMDistDelta: 0.200
+H51 QME: -1.047 MME: -1.587 (-0.540)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -2.476 (-1.815)  QMD: 2.839 MMDistDelta: -0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.011 1.494 2.577} (2.979 D) Ratio: 2.05
+Current objective value: 3577.974371 ( En: 1279.346397  Dist: 36.000000 Dipole: 2262.627974 )
+
+
+Current test charges: N1 -1.299   H1 0.732   C2 C5 -0.181   C3 C4 0.105   
+Iteration: 8
+N1 QME: -7.532 MME: -13.016 (-5.485)  QMD: 3.031 MMDistDelta: -0.100
+H1 QME: -2.854 MME: -8.992 (-6.138)  QMD: 2.314 MMDistDelta: -0.350
+H21 QME: -1.045 MME: 0.085 (1.129)  QMD: 2.777 MMDistDelta: 0.400
+H22 QME: -0.663 MME: 1.385 (2.048)  QMD: 2.836 MMDistDelta: 0.400
+H31 QME: -1.052 MME: -3.129 (-2.077)  QMD: 2.857 MMDistDelta: -0.100
+H32 QME: -0.936 MME: -2.724 (-1.788)  QMD: 2.845 MMDistDelta: -0.050
+H41 QME: -1.052 MME: -3.129 (-2.077)  QMD: 2.859 MMDistDelta: -0.100
+H42 QME: -0.932 MME: -2.720 (-1.787)  QMD: 2.823 MMDistDelta: -0.050
+H51 QME: -1.047 MME: 0.086 (1.133)  QMD: 2.777 MMDistDelta: 0.400
+H52 QME: -0.661 MME: 1.385 (2.046)  QMD: 2.839 MMDistDelta: 0.400
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.052 6.561 -2.910} (7.178 D) Ratio: 4.93
+Current objective value: 14212.183399 ( En: 2343.056021  Dist: 79.750000 Dipole: 11789.377378 )
+
+
+Current test charges: N1 -0.995   H1 0.732   C2 C5 -0.181   C3 C4 -0.047   
+Iteration: 9
+N1 QME: -7.532 MME: -8.011 (-0.479)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -12.575 (-9.721)  QMD: 2.314 MMDistDelta: -0.400
+H21 QME: -1.045 MME: -0.353 (0.692)  QMD: 2.777 MMDistDelta: 0.300
+H22 QME: -0.663 MME: 1.111 (1.774)  QMD: 2.836 MMDistDelta: 0.400
+H31 QME: -1.052 MME: -2.026 (-0.974)  QMD: 2.857 MMDistDelta: 0.000
+H32 QME: -0.936 MME: -1.311 (-0.376)  QMD: 2.845 MMDistDelta: 0.050
+H41 QME: -1.052 MME: -2.026 (-0.973)  QMD: 2.859 MMDistDelta: 0.000
+H42 QME: -0.932 MME: -1.309 (-0.377)  QMD: 2.823 MMDistDelta: 0.050
+H51 QME: -1.047 MME: -0.351 (0.696)  QMD: 2.777 MMDistDelta: 0.300
+H52 QME: -0.661 MME: 1.110 (1.771)  QMD: 2.839 MMDistDelta: 0.400
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.027 3.211 -3.122} (4.478 D) Ratio: 3.08
+Current objective value: 5161.233752 ( En: 2604.113261  Dist: 66.500000 Dipole: 2490.620491 )
+
+
+Current test charges: N1 -0.636   H1 -0.350   C2 C5 -0.020   C3 C4 0.154   
+Iteration: 10
+N1 QME: -7.532 MME: -12.429 (-4.898)  QMD: 3.031 MMDistDelta: -0.050
+H1 QME: -2.854 MME: 9.247 (12.101)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: 0.479 (1.523)  QMD: 2.777 MMDistDelta: 0.350
+H22 QME: -0.663 MME: -1.015 (-0.351)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -2.766 (-1.714)  QMD: 2.857 MMDistDelta: -0.100
+H32 QME: -0.936 MME: -4.421 (-3.485)  QMD: 2.845 MMDistDelta: -0.100
+H41 QME: -1.052 MME: -2.761 (-1.709)  QMD: 2.859 MMDistDelta: -0.100
+H42 QME: -0.932 MME: -4.421 (-3.489)  QMD: 2.823 MMDistDelta: -0.100
+H51 QME: -1.047 MME: 0.477 (1.524)  QMD: 2.777 MMDistDelta: 0.350
+H52 QME: -0.661 MME: -1.013 (-0.351)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.069 9.106 3.115} (9.624 D) Ratio: 6.62
+Current objective value: 31517.098560 ( En: 5137.521882  Dist: 46.750000 Dipole: 26332.826678 )
+
+
+Current test charges: N1 -0.636   H1 0.005   C2 C5 -0.020   C3 C4 -0.024   
+Iteration: 11
+N1 QME: -7.532 MME: -8.735 (-1.203)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: 3.257 (6.111)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -0.156 (0.888)  QMD: 2.777 MMDistDelta: 0.250
+H22 QME: -0.663 MME: -0.605 (0.058)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -1.749 (-0.698)  QMD: 2.857 MMDistDelta: 0.000
+H32 QME: -0.936 MME: -2.470 (-1.534)  QMD: 2.845 MMDistDelta: -0.050
+H41 QME: -1.052 MME: -1.747 (-0.695)  QMD: 2.859 MMDistDelta: 0.000
+H42 QME: -0.932 MME: -2.469 (-1.537)  QMD: 2.823 MMDistDelta: 0.000
+H51 QME: -1.047 MME: -0.157 (0.890)  QMD: 2.777 MMDistDelta: 0.250
+H52 QME: -0.661 MME: -0.604 (0.057)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.040 5.127 1.124} (5.249 D) Ratio: 3.61
+Current objective value: 5692.288406 ( En: 1151.635064  Dist: 33.250000 Dipole: 4507.403342 )
+
+
+Current test charges: N1 -1.705   H1 0.397   C2 C5 -0.083   C3 C4 0.377   
+Iteration: 12
+N1 QME: -7.532 MME: -23.471 (-15.940)  QMD: 3.031 MMDistDelta: -0.200
+H1 QME: -2.854 MME: 2.999 (5.853)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: 0.917 (1.962)  QMD: 2.777 MMDistDelta: 0.400
+H22 QME: -0.663 MME: 1.061 (1.724)  QMD: 2.836 MMDistDelta: 0.400
+H31 QME: -1.052 MME: -5.075 (-4.024)  QMD: 2.857 MMDistDelta: -0.150
+H32 QME: -0.936 MME: -5.962 (-5.026)  QMD: 2.845 MMDistDelta: -0.200
+H41 QME: -1.052 MME: -5.072 (-4.020)  QMD: 2.859 MMDistDelta: -0.200
+H42 QME: -0.932 MME: -5.958 (-5.026)  QMD: 2.823 MMDistDelta: -0.150
+H51 QME: -1.047 MME: 0.916 (1.963)  QMD: 2.777 MMDistDelta: 0.400
+H52 QME: -0.661 MME: 1.063 (1.724)  QMD: 2.839 MMDistDelta: 0.400
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.104 13.394 -0.493} (13.403 D) Ratio: 9.21
+Current objective value: 69198.060708 ( En: 9621.296911  Dist: 96.500000 Dipole: 59480.263797 )
+
+
+Current test charges: N1 -0.995   H1 0.397   C2 C5 -0.083   C3 C4 0.022   
+Iteration: 13
+N1 QME: -7.532 MME: -10.815 (-3.283)  QMD: 3.031 MMDistDelta: -0.050
+H1 QME: -2.854 MME: -1.659 (1.195)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -0.095 (0.950)  QMD: 2.777 MMDistDelta: 0.300
+H22 QME: -0.663 MME: 0.421 (1.084)  QMD: 2.836 MMDistDelta: 0.400
+H31 QME: -1.052 MME: -2.350 (-1.298)  QMD: 2.857 MMDistDelta: -0.050
+H32 QME: -0.936 MME: -2.459 (-1.524)  QMD: 2.845 MMDistDelta: -0.050
+H41 QME: -1.052 MME: -2.349 (-1.296)  QMD: 2.859 MMDistDelta: -0.050
+H42 QME: -0.932 MME: -2.455 (-1.523)  QMD: 2.823 MMDistDelta: 0.000
+H51 QME: -1.047 MME: -0.095 (0.952)  QMD: 2.777 MMDistDelta: 0.300
+H52 QME: -0.661 MME: 0.422 (1.083)  QMD: 2.839 MMDistDelta: 0.400
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.044 5.578 -0.987} (5.665 D) Ratio: 3.89
+Current objective value: 6391.872109 ( En: 609.292349  Dist: 52.000000 Dipole: 5730.579760 )
+
+
+Current test charges: N1 -0.992   H1 -0.093   C2 C5 -0.103   C3 C4 0.286   
+Iteration: 14
+N1 QME: -7.532 MME: -16.254 (-8.723)  QMD: 3.031 MMDistDelta: -0.100
+H1 QME: -2.854 MME: 7.251 (10.105)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: 0.810 (1.854)  QMD: 2.777 MMDistDelta: 0.400
+H22 QME: -0.663 MME: -0.018 (0.646)  QMD: 2.836 MMDistDelta: 0.300
+H31 QME: -1.052 MME: -3.909 (-2.857)  QMD: 2.857 MMDistDelta: -0.150
+H32 QME: -0.936 MME: -5.312 (-4.376)  QMD: 2.845 MMDistDelta: -0.150
+H41 QME: -1.052 MME: -3.905 (-2.853)  QMD: 2.859 MMDistDelta: -0.150
+H42 QME: -0.932 MME: -5.304 (-4.372)  QMD: 2.823 MMDistDelta: -0.150
+H51 QME: -1.047 MME: 0.809 (1.856)  QMD: 2.777 MMDistDelta: 0.400
+H52 QME: -0.661 MME: -0.015 (0.646)  QMD: 2.839 MMDistDelta: 0.300
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.087 11.317 1.707} (11.445 D) Ratio: 7.87
+Current objective value: 46649.922738 ( En: 6012.007407  Dist: 76.000000 Dipole: 40561.915331 )
+
+
+Current test charges: N1 -0.992   H1 0.005   C2 C5 -0.103   C3 C4 0.237   
+Iteration: 15
+N1 QME: -7.532 MME: -15.162 (-7.630)  QMD: 3.031 MMDistDelta: -0.100
+H1 QME: -2.854 MME: 5.592 (8.446)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: 0.642 (1.686)  QMD: 2.777 MMDistDelta: 0.400
+H22 QME: -0.663 MME: 0.087 (0.750)  QMD: 2.836 MMDistDelta: 0.300
+H31 QME: -1.052 MME: -3.606 (-2.554)  QMD: 2.857 MMDistDelta: -0.150
+H32 QME: -0.936 MME: -4.748 (-3.812)  QMD: 2.845 MMDistDelta: -0.150
+H41 QME: -1.052 MME: -3.603 (-2.550)  QMD: 2.859 MMDistDelta: -0.150
+H42 QME: -0.932 MME: -4.742 (-3.809)  QMD: 2.823 MMDistDelta: -0.100
+H51 QME: -1.047 MME: 0.641 (1.688)  QMD: 2.777 MMDistDelta: 0.400
+H52 QME: -0.661 MME: 0.089 (0.750)  QMD: 2.839 MMDistDelta: 0.300
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.079 10.215 1.155} (10.281 D) Ratio: 7.07
+Current objective value: 35531.547869 ( En: 4461.256142  Dist: 74.750000 Dipole: 30995.541728 )
+
+
+Current test charges: N1 -0.938   H1 0.152   C2 C5 -0.022   C3 C4 0.055   
+Iteration: 16
+N1 QME: -7.532 MME: -12.033 (-4.501)  QMD: 3.031 MMDistDelta: -0.050
+H1 QME: -2.854 MME: 2.510 (5.364)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: 0.043 (1.087)  QMD: 2.777 MMDistDelta: 0.300
+H22 QME: -0.663 MME: -0.122 (0.541)  QMD: 2.836 MMDistDelta: 0.200
+H31 QME: -1.052 MME: -2.449 (-1.397)  QMD: 2.857 MMDistDelta: -0.050
+H32 QME: -0.936 MME: -3.112 (-2.177)  QMD: 2.845 MMDistDelta: -0.050
+H41 QME: -1.052 MME: -2.446 (-1.394)  QMD: 2.859 MMDistDelta: -0.050
+H42 QME: -0.932 MME: -3.112 (-2.179)  QMD: 2.823 MMDistDelta: -0.050
+H51 QME: -1.047 MME: 0.042 (1.089)  QMD: 2.777 MMDistDelta: 0.300
+H52 QME: -0.661 MME: -0.121 (0.541)  QMD: 2.839 MMDistDelta: 0.200
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.053 6.820 0.505} (6.839 D) Ratio: 4.70
+Current objective value: 11923.985361 ( En: 1634.194734  Dist: 43.250000 Dipole: 10246.540626 )
+
+
+Current test charges: N1 -0.910   H1 0.226   C2 C5 0.018   C3 C4 -0.036   
+Iteration: 17
+N1 QME: -7.532 MME: -10.498 (-2.966)  QMD: 3.031 MMDistDelta: -0.050
+H1 QME: -2.854 MME: 0.969 (3.823)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -0.276 (0.768)  QMD: 2.777 MMDistDelta: 0.200
+H22 QME: -0.663 MME: -0.232 (0.431)  QMD: 2.836 MMDistDelta: 0.200
+H31 QME: -1.052 MME: -1.894 (-0.842)  QMD: 2.857 MMDistDelta: 0.000
+H32 QME: -0.936 MME: -2.324 (-1.389)  QMD: 2.845 MMDistDelta: 0.000
+H41 QME: -1.052 MME: -1.892 (-0.840)  QMD: 2.859 MMDistDelta: 0.000
+H42 QME: -0.932 MME: -2.325 (-1.393)  QMD: 2.823 MMDistDelta: 0.000
+H51 QME: -1.047 MME: -0.276 (0.771)  QMD: 2.777 MMDistDelta: 0.200
+H52 QME: -0.661 MME: -0.231 (0.430)  QMD: 2.839 MMDistDelta: 0.200
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.040 5.122 0.180} (5.125 D) Ratio: 3.52
+Current objective value: 4880.613619 ( En: 756.184954  Dist: 32.250000 Dipole: 4092.178664 )
+
+
+Current test charges: N1 -0.698   H1 0.093   C2 C5 0.290   C3 C4 -0.348   
+Iteration: 18
+N1 QME: -7.532 MME: -6.572 (0.960)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: 1.010 (3.864)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -1.436 (-0.391)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -1.827 (-1.164)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: 0.008 (1.060)  QMD: 2.857 MMDistDelta: 0.300
+H32 QME: -0.936 MME: -0.442 (0.494)  QMD: 2.845 MMDistDelta: 0.250
+H41 QME: -1.052 MME: 0.010 (1.062)  QMD: 2.859 MMDistDelta: 0.300
+H42 QME: -0.932 MME: -0.443 (0.489)  QMD: 2.823 MMDistDelta: 0.250
+H51 QME: -1.047 MME: -1.437 (-0.389)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -1.826 (-1.165)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.003 0.414 1.486} (1.543 D) Ratio: 1.06
+Current objective value: 3673.639640 ( En: 539.969597  Dist: 47.250000 Dipole: 3086.420044 )
+
+
+Current test charges: N1 -0.698   H1 0.093   C2 C5 0.290   C3 C4 -0.348   
+Iteration: 19
+N1 QME: -7.532 MME: -6.572 (0.960)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: 1.010 (3.864)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -1.436 (-0.391)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -1.827 (-1.164)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: 0.008 (1.060)  QMD: 2.857 MMDistDelta: 0.300
+H32 QME: -0.936 MME: -0.442 (0.494)  QMD: 2.845 MMDistDelta: 0.250
+H41 QME: -1.052 MME: 0.010 (1.062)  QMD: 2.859 MMDistDelta: 0.300
+H42 QME: -0.932 MME: -0.443 (0.489)  QMD: 2.823 MMDistDelta: 0.250
+H51 QME: -1.047 MME: -1.437 (-0.389)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -1.826 (-1.165)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.003 0.414 1.486} (1.543 D) Ratio: 1.06
+Current objective value: 3673.639640 ( En: 539.969597  Dist: 47.250000 Dipole: 3086.420044 )
+
+
+Current test charges: N1 -1.192   H1 0.643   C2 C5 0.351   C3 C4 -0.437   
+Iteration: 20
+N1 QME: -7.532 MME: -8.220 (-0.689)  QMD: 3.031 MMDistDelta: -0.050
+H1 QME: -2.854 MME: -10.712 (-7.858)  QMD: 2.314 MMDistDelta: -0.400
+H21 QME: -1.045 MME: -1.921 (-0.876)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -0.886 (-0.223)  QMD: 2.836 MMDistDelta: 0.050
+H31 QME: -1.052 MME: 0.000 (1.052)  QMD: 2.857 MMDistDelta: 0.400
+H32 QME: -0.936 MME: 0.386 (1.322)  QMD: 2.845 MMDistDelta: 0.400
+H41 QME: -1.052 MME: 0.000 (1.052)  QMD: 2.859 MMDistDelta: 0.400
+H42 QME: -0.932 MME: 0.390 (1.322)  QMD: 2.823 MMDistDelta: 0.400
+H51 QME: -1.047 MME: -1.920 (-0.873)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -0.885 (-0.224)  QMD: 2.839 MMDistDelta: 0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {-0.008 -1.166 -1.092} (1.598 D) Ratio: 1.10
+Current objective value: 5437.262524 ( En: 1739.235584  Dist: 81.250000 Dipole: 3616.776939 )
+
+
+Current test charges: N1 -0.995   H1 0.643   C2 C5 0.351   C3 C4 -0.535   
+Iteration: 21
+N1 QME: -7.532 MME: -5.105 (2.427)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -13.043 (-10.189)  QMD: 2.314 MMDistDelta: -0.400
+H21 QME: -1.045 MME: -2.257 (-1.212)  QMD: 2.777 MMDistDelta: 0.000
+H22 QME: -0.663 MME: -1.106 (-0.443)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: 0.534 (1.586)  QMD: 2.857 MMDistDelta: 0.400
+H32 QME: -0.936 MME: 1.099 (2.035)  QMD: 2.845 MMDistDelta: 0.400
+H41 QME: -1.052 MME: 0.533 (1.585)  QMD: 2.859 MMDistDelta: 0.400
+H42 QME: -0.932 MME: 1.111 (2.043)  QMD: 2.823 MMDistDelta: 0.400
+H51 QME: -1.047 MME: -2.256 (-1.209)  QMD: 2.777 MMDistDelta: 0.000
+H52 QME: -0.661 MME: -1.106 (-0.445)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {-0.024 -3.337 -1.229} (3.556 D) Ratio: 2.44
+Current objective value: 10139.076354 ( En: 3159.207078  Dist: 80.250000 Dipole: 6899.619276 )
+
+
+Current test charges: N1 -0.937   H1 0.463   C2 C5 0.246   C3 C4 -0.369   
+Iteration: 22
+N1 QME: -7.532 MME: -6.797 (0.735)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -6.292 (-3.438)  QMD: 2.314 MMDistDelta: -0.300
+H21 QME: -1.045 MME: -1.569 (-0.524)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -0.913 (-0.249)  QMD: 2.836 MMDistDelta: 0.050
+H31 QME: -1.052 MME: -0.135 (0.917)  QMD: 2.857 MMDistDelta: 0.350
+H32 QME: -0.936 MME: 0.050 (0.986)  QMD: 2.845 MMDistDelta: 0.400
+H41 QME: -1.052 MME: -0.135 (0.918)  QMD: 2.859 MMDistDelta: 0.350
+H42 QME: -0.932 MME: 0.049 (0.982)  QMD: 2.823 MMDistDelta: 0.400
+H51 QME: -1.047 MME: -1.568 (-0.521)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -0.912 (-0.251)  QMD: 2.839 MMDistDelta: 0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {-0.003 -0.473 -0.534} (0.713 D) Ratio: 0.49
+Current objective value: 4118.743092 ( En: 416.234328  Dist: 66.500000 Dipole: 3636.008765 )
+
+
+Current test charges: N1 -0.699   H1 -0.426   C2 C5 0.757   C3 C4 -0.555   
+Iteration: 23
+N1 QME: -7.532 MME: -8.561 (-1.030)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: 8.100 (10.954)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -2.408 (-1.364)  QMD: 2.777 MMDistDelta: -0.050
+H22 QME: -0.663 MME: -4.790 (-4.127)  QMD: 2.836 MMDistDelta: -0.150
+H31 QME: -1.052 MME: 1.177 (2.229)  QMD: 2.857 MMDistDelta: 0.400
+H32 QME: -0.936 MME: -0.345 (0.591)  QMD: 2.845 MMDistDelta: 0.400
+H41 QME: -1.052 MME: 1.179 (2.231)  QMD: 2.859 MMDistDelta: 0.400
+H42 QME: -0.932 MME: -0.347 (0.585)  QMD: 2.823 MMDistDelta: 0.400
+H51 QME: -1.047 MME: -2.412 (-1.365)  QMD: 2.777 MMDistDelta: -0.050
+H52 QME: -0.661 MME: -4.788 (-4.127)  QMD: 2.839 MMDistDelta: -0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {-0.004 -0.370 5.619} (5.631 D) Ratio: 3.87
+Current objective value: 14859.742587 ( En: 4236.700019  Dist: 85.000000 Dipole: 10538.042568 )
+
+
+Current test charges: N1 -0.699   H1 0.005   C2 C5 0.757   C3 C4 -0.770   
+Iteration: 24
+N1 QME: -7.532 MME: -4.203 (3.329)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: 0.832 (3.686)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -3.279 (-2.234)  QMD: 2.777 MMDistDelta: -0.050
+H22 QME: -0.663 MME: -4.236 (-3.572)  QMD: 2.836 MMDistDelta: -0.150
+H31 QME: -1.052 MME: 1.996 (3.048)  QMD: 2.857 MMDistDelta: 0.400
+H32 QME: -0.936 MME: 1.458 (2.394)  QMD: 2.845 MMDistDelta: 0.400
+H41 QME: -1.052 MME: 1.995 (3.047)  QMD: 2.859 MMDistDelta: 0.400
+H42 QME: -0.932 MME: 1.476 (2.408)  QMD: 2.823 MMDistDelta: 0.400
+H51 QME: -1.047 MME: -3.281 (-2.234)  QMD: 2.777 MMDistDelta: -0.050
+H52 QME: -0.661 MME: -4.235 (-3.574)  QMD: 2.839 MMDistDelta: -0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {-0.040 -5.198 3.203} (6.106 D) Ratio: 4.20
+Current objective value: 22109.296593 ( En: 2257.130630  Dist: 85.250000 Dipole: 19766.915963 )
+
+
+Current test charges: N1 -0.783   H1 0.117   C2 C5 0.492   C3 C4 -0.519   
+Iteration: 25
+N1 QME: -7.532 MME: -6.190 (1.342)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: 0.376 (3.230)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -2.186 (-1.142)  QMD: 2.777 MMDistDelta: 0.000
+H22 QME: -0.663 MME: -2.662 (-1.999)  QMD: 2.836 MMDistDelta: -0.050
+H31 QME: -1.052 MME: 0.759 (1.810)  QMD: 2.857 MMDistDelta: 0.400
+H32 QME: -0.936 MME: 0.344 (1.280)  QMD: 2.845 MMDistDelta: 0.400
+H41 QME: -1.052 MME: 0.759 (1.811)  QMD: 2.859 MMDistDelta: 0.400
+H42 QME: -0.932 MME: 0.348 (1.280)  QMD: 2.823 MMDistDelta: 0.400
+H51 QME: -1.047 MME: -2.188 (-1.141)  QMD: 2.777 MMDistDelta: 0.000
+H52 QME: -0.661 MME: -2.661 (-1.999)  QMD: 2.839 MMDistDelta: -0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {-0.014 -1.772 1.941} (2.628 D) Ratio: 1.81
+Current objective value: 10912.510539 ( En: 816.643474  Dist: 80.500000 Dipole: 10015.367065 )
+
+
+Current test charges: N1 -0.825   H1 0.173   C2 C5 0.359   C3 C4 -0.393   
+Iteration: 26
+N1 QME: -7.532 MME: -7.220 (0.312)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: 0.144 (2.998)  QMD: 2.314 MMDistDelta: 0.300
+H21 QME: -1.045 MME: -1.661 (-0.617)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -1.907 (-1.243)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: 0.140 (1.192)  QMD: 2.857 MMDistDelta: 0.400
+H32 QME: -0.936 MME: -0.217 (0.718)  QMD: 2.845 MMDistDelta: 0.300
+H41 QME: -1.052 MME: 0.141 (1.193)  QMD: 2.859 MMDistDelta: 0.400
+H42 QME: -0.932 MME: -0.218 (0.714)  QMD: 2.823 MMDistDelta: 0.350
+H51 QME: -1.047 MME: -1.662 (-0.615)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -1.905 (-1.244)  QMD: 2.839 MMDistDelta: -0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {-0.000 -0.059 1.310} (1.311 D) Ratio: 0.90
+Current objective value: 5365.759405 ( En: 420.148194  Dist: 63.000000 Dipole: 4882.611211 )
+
+
+Current test charges: N1 -0.845   H1 0.201   C2 C5 0.293   C3 C4 -0.331   
+Iteration: 27
+N1 QME: -7.532 MME: -7.735 (-0.203)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: 0.012 (2.866)  QMD: 2.314 MMDistDelta: 0.250
+H21 QME: -1.045 MME: -1.406 (-0.361)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -1.541 (-0.878)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: -0.185 (0.866)  QMD: 2.857 MMDistDelta: 0.250
+H32 QME: -0.936 MME: -0.524 (0.411)  QMD: 2.845 MMDistDelta: 0.200
+H41 QME: -1.052 MME: -0.184 (0.868)  QMD: 2.859 MMDistDelta: 0.250
+H42 QME: -0.932 MME: -0.524 (0.408)  QMD: 2.823 MMDistDelta: 0.250
+H51 QME: -1.047 MME: -1.407 (-0.360)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -1.540 (-0.879)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.007 0.797 0.994} (1.274 D) Ratio: 0.88
+Current objective value: 1854.321212 ( En: 297.443655  Dist: 29.500000 Dipole: 1527.377557 )
+
+
+Current test charges: N1 -0.780   H1 0.221   C2 C5 0.624   C3 C4 -0.705   
+Iteration: 28
+N1 QME: -7.532 MME: -4.187 (3.344)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -2.658 (0.196)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -2.977 (-1.933)  QMD: 2.777 MMDistDelta: -0.050
+H22 QME: -0.663 MME: -3.189 (-2.526)  QMD: 2.836 MMDistDelta: -0.100
+H31 QME: -1.052 MME: 1.574 (2.626)  QMD: 2.857 MMDistDelta: 0.400
+H32 QME: -0.936 MME: 1.428 (2.364)  QMD: 2.845 MMDistDelta: 0.400
+H41 QME: -1.052 MME: 1.573 (2.625)  QMD: 2.859 MMDistDelta: 0.400
+H42 QME: -0.932 MME: 1.445 (2.377)  QMD: 2.823 MMDistDelta: 0.400
+H51 QME: -1.047 MME: -2.978 (-1.931)  QMD: 2.777 MMDistDelta: -0.050
+H52 QME: -0.661 MME: -3.189 (-2.527)  QMD: 2.839 MMDistDelta: -0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {-0.037 -4.844 1.700} (5.134 D) Ratio: 3.53
+Current objective value: 17193.151460 ( En: 1411.927887  Dist: 67.750000 Dipole: 15713.473573 )
+
+
+Current test charges: N1 -0.780   H1 0.221   C2 C5 0.624   C3 C4 -0.705   
+Iteration: 29
+N1 QME: -7.532 MME: -4.187 (3.344)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -2.658 (0.196)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -2.977 (-1.933)  QMD: 2.777 MMDistDelta: -0.050
+H22 QME: -0.663 MME: -3.189 (-2.526)  QMD: 2.836 MMDistDelta: -0.100
+H31 QME: -1.052 MME: 1.574 (2.626)  QMD: 2.857 MMDistDelta: 0.400
+H32 QME: -0.936 MME: 1.428 (2.364)  QMD: 2.845 MMDistDelta: 0.400
+H41 QME: -1.052 MME: 1.573 (2.625)  QMD: 2.859 MMDistDelta: 0.400
+H42 QME: -0.932 MME: 1.445 (2.377)  QMD: 2.823 MMDistDelta: 0.400
+H51 QME: -1.047 MME: -2.978 (-1.931)  QMD: 2.777 MMDistDelta: -0.050
+H52 QME: -0.661 MME: -3.189 (-2.527)  QMD: 2.839 MMDistDelta: -0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {-0.037 -4.844 1.700} (5.134 D) Ratio: 3.53
+Current objective value: 17193.151460 ( En: 1411.927887  Dist: 67.750000 Dipole: 15713.473573 )
+
+
+Current test charges: N1 -0.817   H1 0.222   C2 C5 0.453   C3 C4 -0.516   
+Iteration: 30
+N1 QME: -7.532 MME: -5.917 (1.615)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -1.452 (1.402)  QMD: 2.314 MMDistDelta: 0.000
+H21 QME: -1.045 MME: -2.169 (-1.124)  QMD: 2.777 MMDistDelta: 0.000
+H22 QME: -0.663 MME: -2.304 (-1.641)  QMD: 2.836 MMDistDelta: -0.050
+H31 QME: -1.052 MME: 0.687 (1.739)  QMD: 2.857 MMDistDelta: 0.400
+H32 QME: -0.936 MME: 0.475 (1.410)  QMD: 2.845 MMDistDelta: 0.400
+H41 QME: -1.052 MME: 0.687 (1.739)  QMD: 2.859 MMDistDelta: 0.400
+H42 QME: -0.932 MME: 0.480 (1.412)  QMD: 2.823 MMDistDelta: 0.400
+H51 QME: -1.047 MME: -2.170 (-1.123)  QMD: 2.777 MMDistDelta: 0.000
+H52 QME: -0.661 MME: -2.303 (-1.642)  QMD: 2.839 MMDistDelta: -0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {-0.015 -2.028 1.271} (2.393 D) Ratio: 1.64
+Current objective value: 13070.527376 ( En: 562.890949  Dist: 64.750000 Dipole: 12442.886427 )
+
+
+Current test charges: N1 -0.835   H1 0.223   C2 C5 0.367   C3 C4 -0.421   
+Iteration: 31
+N1 QME: -7.532 MME: -6.809 (0.723)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -0.890 (1.964)  QMD: 2.314 MMDistDelta: 0.050
+H21 QME: -1.045 MME: -1.774 (-0.730)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -1.871 (-1.208)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: 0.244 (1.295)  QMD: 2.857 MMDistDelta: 0.400
+H32 QME: -0.936 MME: -0.002 (0.933)  QMD: 2.845 MMDistDelta: 0.400
+H41 QME: -1.052 MME: 0.244 (1.297)  QMD: 2.859 MMDistDelta: 0.400
+H42 QME: -0.932 MME: -0.003 (0.930)  QMD: 2.823 MMDistDelta: 0.400
+H51 QME: -1.047 MME: -1.775 (-0.728)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -1.870 (-1.208)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {-0.004 -0.619 1.056} (1.224 D) Ratio: 0.84
+Current objective value: 8711.106498 ( En: 336.397965  Dist: 64.750000 Dipole: 8309.958533 )
+
+
+Current test charges: N1 -0.844   H1 0.223   C2 C5 0.325   C3 C4 -0.374   
+Iteration: 32
+N1 QME: -7.532 MME: -7.257 (0.275)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -0.620 (2.234)  QMD: 2.314 MMDistDelta: 0.100
+H21 QME: -1.045 MME: -1.582 (-0.538)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -1.661 (-0.998)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: 0.021 (1.073)  QMD: 2.857 MMDistDelta: 0.350
+H32 QME: -0.936 MME: -0.248 (0.687)  QMD: 2.845 MMDistDelta: 0.300
+H41 QME: -1.052 MME: 0.022 (1.074)  QMD: 2.859 MMDistDelta: 0.350
+H42 QME: -0.932 MME: -0.249 (0.683)  QMD: 2.823 MMDistDelta: 0.300
+H51 QME: -1.047 MME: -1.583 (-0.536)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -1.660 (-0.999)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.001 0.085 0.949} (0.952 D) Ratio: 0.65
+Current objective value: 4629.059401 ( En: 271.985979  Dist: 44.000000 Dipole: 4313.073423 )
+
+
+Current test charges: N1 -0.849   H1 0.223   C2 C5 0.303   C3 C4 -0.350   
+Iteration: 33
+N1 QME: -7.532 MME: -7.481 (0.051)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -0.489 (2.365)  QMD: 2.314 MMDistDelta: 0.100
+H21 QME: -1.045 MME: -1.486 (-0.442)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -1.556 (-0.893)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: -0.096 (0.956)  QMD: 2.857 MMDistDelta: 0.300
+H32 QME: -0.936 MME: -0.378 (0.557)  QMD: 2.845 MMDistDelta: 0.250
+H41 QME: -1.052 MME: -0.095 (0.957)  QMD: 2.859 MMDistDelta: 0.300
+H42 QME: -0.932 MME: -0.379 (0.553)  QMD: 2.823 MMDistDelta: 0.250
+H51 QME: -1.047 MME: -1.487 (-0.440)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -1.555 (-0.894)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.004 0.437 0.895} (0.996 D) Ratio: 0.68
+Current objective value: 2796.615472 ( En: 250.647928  Dist: 32.000000 Dipole: 2513.967543 )
+
+
+Current test charges: N1 -0.705   H1 -0.197   C2 C5 0.354   C3 C4 -0.263   
+Iteration: 34
+N1 QME: -7.532 MME: -9.199 (-1.668)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: 5.724 (8.578)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -1.120 (-0.076)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -2.477 (-1.814)  QMD: 2.836 MMDistDelta: -0.050
+H31 QME: -1.052 MME: -0.336 (0.715)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -1.515 (-0.580)  QMD: 2.845 MMDistDelta: 0.050
+H41 QME: -1.052 MME: -0.334 (0.719)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -1.517 (-0.585)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -1.122 (-0.075)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -2.476 (-1.814)  QMD: 2.839 MMDistDelta: -0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.021 2.848 3.286} (4.349 D) Ratio: 2.99
+Current objective value: 5655.642151 ( En: 2116.347302  Dist: 22.750000 Dipole: 3516.544849 )
+
+
+Current test charges: N1 -0.705   H1 0.005   C2 C5 0.354   C3 C4 -0.364   
+Iteration: 35
+N1 QME: -7.532 MME: -7.118 (0.414)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: 2.310 (5.164)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -1.515 (-0.470)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -2.228 (-1.564)  QMD: 2.836 MMDistDelta: -0.050
+H31 QME: -1.052 MME: 0.117 (1.169)  QMD: 2.857 MMDistDelta: 0.300
+H32 QME: -0.936 MME: -0.534 (0.401)  QMD: 2.845 MMDistDelta: 0.200
+H41 QME: -1.052 MME: 0.119 (1.171)  QMD: 2.859 MMDistDelta: 0.300
+H42 QME: -0.932 MME: -0.536 (0.396)  QMD: 2.823 MMDistDelta: 0.250
+H51 QME: -1.047 MME: -1.516 (-0.469)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -2.227 (-1.566)  QMD: 2.839 MMDistDelta: -0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.004 0.581 2.152} (2.229 D) Ratio: 1.53
+Current objective value: 4034.337610 ( En: 880.813375  Dist: 45.250000 Dipole: 3108.274234 )
+
+
+Current test charges: N1 -0.771   H1 0.090   C2 C5 0.323   C3 C4 -0.343   
+Iteration: 36
+N1 QME: -7.532 MME: -7.480 (0.052)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: 1.355 (4.209)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -1.444 (-0.400)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -1.901 (-1.238)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: -0.045 (1.006)  QMD: 2.857 MMDistDelta: 0.250
+H32 QME: -0.936 MME: -0.568 (0.368)  QMD: 2.845 MMDistDelta: 0.200
+H41 QME: -1.052 MME: -0.044 (1.008)  QMD: 2.859 MMDistDelta: 0.250
+H42 QME: -0.932 MME: -0.568 (0.364)  QMD: 2.823 MMDistDelta: 0.200
+H51 QME: -1.047 MME: -1.445 (-0.398)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -1.900 (-1.239)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.006 0.776 1.639} (1.814 D) Ratio: 1.25
+Current objective value: 2920.643930 ( En: 584.953340  Dist: 37.000000 Dipole: 2298.690591 )
+
+
+Current test charges: N1 -1.049   H1 0.282   C2 C5 0.312   C3 C4 -0.288   
+Iteration: 37
+N1 QME: -7.532 MME: -10.012 (-2.480)  QMD: 3.031 MMDistDelta: -0.050
+H1 QME: -2.854 MME: -0.360 (2.494)  QMD: 2.314 MMDistDelta: 0.100
+H21 QME: -1.045 MME: -1.297 (-0.253)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -1.297 (-0.634)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: -0.533 (0.519)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.875 (0.060)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.532 (0.521)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.876 (0.057)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.298 (-0.251)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -1.296 (-0.635)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.861 0.730} (1.999 D) Ratio: 1.37
+Current objective value: 580.747330 ( En: 346.248289  Dist: 10.750000 Dipole: 223.749040 )
+
+
+Current test charges: N1 -0.995   H1 0.282   C2 C5 0.312   C3 C4 -0.315   
+Iteration: 38
+N1 QME: -7.532 MME: -9.126 (-1.595)  QMD: 3.031 MMDistDelta: -0.050
+H1 QME: -2.854 MME: -0.771 (2.083)  QMD: 2.314 MMDistDelta: 0.050
+H21 QME: -1.045 MME: -1.388 (-0.344)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -1.359 (-0.696)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: -0.364 (0.687)  QMD: 2.857 MMDistDelta: 0.200
+H32 QME: -0.936 MME: -0.650 (0.286)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.363 (0.689)  QMD: 2.859 MMDistDelta: 0.200
+H42 QME: -0.932 MME: -0.651 (0.281)  QMD: 2.823 MMDistDelta: 0.200
+H51 QME: -1.047 MME: -1.389 (-0.342)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -1.358 (-0.697)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.010 1.269 0.693} (1.446 D) Ratio: 0.99
+Current objective value: 706.490669 ( En: 229.884124  Dist: 15.250000 Dipole: 461.356545 )
+
+
+Current test charges: N1 -0.778   H1 0.520   C2 C5 0.020   C3 C4 -0.251   
+Iteration: 39
+N1 QME: -7.532 MME: -5.428 (2.104)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -8.460 (-5.606)  QMD: 2.314 MMDistDelta: -0.350
+H21 QME: -1.045 MME: -1.038 (0.006)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.047 (0.616)  QMD: 2.836 MMDistDelta: 0.200
+H31 QME: -1.052 MME: -0.687 (0.364)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.257 (0.679)  QMD: 2.845 MMDistDelta: 0.200
+H41 QME: -1.052 MME: -0.687 (0.365)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.257 (0.676)  QMD: 2.823 MMDistDelta: 0.250
+H51 QME: -1.047 MME: -1.037 (0.010)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.047 (0.614)  QMD: 2.839 MMDistDelta: 0.200
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.004 0.353 -1.555} (1.595 D) Ratio: 1.10
+Current objective value: 1206.356447 ( En: 944.915481  Dist: 39.750000 Dipole: 221.690966 )
+
+
+Current test charges: N1 -0.778   H1 0.520   C2 C5 0.020   C3 C4 -0.251   
+Iteration: 40
+N1 QME: -7.532 MME: -5.428 (2.104)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -8.460 (-5.606)  QMD: 2.314 MMDistDelta: -0.350
+H21 QME: -1.045 MME: -1.038 (0.006)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.047 (0.616)  QMD: 2.836 MMDistDelta: 0.200
+H31 QME: -1.052 MME: -0.687 (0.364)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.257 (0.679)  QMD: 2.845 MMDistDelta: 0.200
+H41 QME: -1.052 MME: -0.687 (0.365)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.257 (0.676)  QMD: 2.823 MMDistDelta: 0.250
+H51 QME: -1.047 MME: -1.037 (0.010)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.047 (0.614)  QMD: 2.839 MMDistDelta: 0.200
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.004 0.353 -1.555} (1.595 D) Ratio: 1.10
+Current objective value: 1206.356447 ( En: 944.915481  Dist: 39.750000 Dipole: 221.690966 )
+
+
+Current test charges: N1 -0.988   H1 0.609   C2 C5 0.060   C3 C4 -0.231   
+Iteration: 41
+N1 QME: -7.532 MME: -7.433 (0.098)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -9.673 (-6.819)  QMD: 2.314 MMDistDelta: -0.350
+H21 QME: -1.045 MME: -1.023 (0.021)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: 0.101 (0.765)  QMD: 2.836 MMDistDelta: 0.250
+H31 QME: -1.052 MME: -0.930 (0.122)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.473 (0.463)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.929 (0.123)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.473 (0.460)  QMD: 2.823 MMDistDelta: 0.200
+H51 QME: -1.047 MME: -1.022 (0.025)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: 0.102 (0.763)  QMD: 2.839 MMDistDelta: 0.250
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.010 1.092 -1.805} (2.110 D) Ratio: 1.45
+Current objective value: 1243.534502 ( En: 1203.296682  Dist: 40.000000 Dipole: 0.237820 )
+
+
+Current test charges: N1 -0.988   H1 0.609   C2 C5 0.060   C3 C4 -0.231   
+Iteration: 42
+N1 QME: -7.532 MME: -7.433 (0.098)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -9.673 (-6.819)  QMD: 2.314 MMDistDelta: -0.350
+H21 QME: -1.045 MME: -1.023 (0.021)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: 0.101 (0.765)  QMD: 2.836 MMDistDelta: 0.250
+H31 QME: -1.052 MME: -0.930 (0.122)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.473 (0.463)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.929 (0.123)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.473 (0.460)  QMD: 2.823 MMDistDelta: 0.200
+H51 QME: -1.047 MME: -1.022 (0.025)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: 0.102 (0.763)  QMD: 2.839 MMDistDelta: 0.250
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.010 1.092 -1.805} (2.110 D) Ratio: 1.45
+Current objective value: 1243.534502 ( En: 1203.296682  Dist: 40.000000 Dipole: 0.237820 )
+
+
+Current test charges: N1 -0.950   H1 0.613   C2 C5 -0.025   C3 C4 -0.166   
+Iteration: 43
+N1 QME: -7.532 MME: -7.410 (0.122)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -9.658 (-6.804)  QMD: 2.314 MMDistDelta: -0.350
+H21 QME: -1.045 MME: -0.767 (0.277)  QMD: 2.777 MMDistDelta: 0.200
+H22 QME: -0.663 MME: 0.394 (1.057)  QMD: 2.836 MMDistDelta: 0.400
+H31 QME: -1.052 MME: -1.269 (-0.218)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.779 (0.156)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -1.269 (-0.217)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.777 (0.155)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.766 (0.281)  QMD: 2.777 MMDistDelta: 0.200
+H52 QME: -0.661 MME: 0.395 (1.056)  QMD: 2.839 MMDistDelta: 0.400
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.016 1.835 -2.079} (2.773 D) Ratio: 1.91
+Current objective value: 1443.333132 ( En: 1221.106527  Dist: 57.500000 Dipole: 164.726605 )
+
+
+Current test charges: N1 -0.950   H1 0.613   C2 C5 -0.025   C3 C4 -0.166   
+Iteration: 44
+N1 QME: -7.532 MME: -7.410 (0.122)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -9.658 (-6.804)  QMD: 2.314 MMDistDelta: -0.350
+H21 QME: -1.045 MME: -0.767 (0.277)  QMD: 2.777 MMDistDelta: 0.200
+H22 QME: -0.663 MME: 0.394 (1.057)  QMD: 2.836 MMDistDelta: 0.400
+H31 QME: -1.052 MME: -1.269 (-0.218)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.779 (0.156)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -1.269 (-0.217)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.777 (0.155)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.766 (0.281)  QMD: 2.777 MMDistDelta: 0.200
+H52 QME: -0.661 MME: 0.395 (1.056)  QMD: 2.839 MMDistDelta: 0.400
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.016 1.835 -2.079} (2.773 D) Ratio: 1.91
+Current objective value: 1443.333132 ( En: 1221.106527  Dist: 57.500000 Dipole: 164.726605 )
+
+
+Current test charges: N1 -1.003   H1 0.833   C2 C5 -0.158   C3 C4 -0.117   
+Iteration: 45
+N1 QME: -7.532 MME: -6.930 (0.601)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -16.594 (-13.740)  QMD: 2.314 MMDistDelta: -0.400
+H21 QME: -1.045 MME: -0.601 (0.444)  QMD: 2.777 MMDistDelta: 0.250
+H22 QME: -0.663 MME: 1.139 (1.802)  QMD: 2.836 MMDistDelta: 0.400
+H31 QME: -1.052 MME: -1.654 (-0.602)  QMD: 2.857 MMDistDelta: 0.050
+H32 QME: -0.936 MME: -0.701 (0.235)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -1.654 (-0.602)  QMD: 2.859 MMDistDelta: 0.050
+H42 QME: -0.932 MME: -0.697 (0.235)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.599 (0.448)  QMD: 2.777 MMDistDelta: 0.250
+H52 QME: -0.661 MME: 1.138 (1.800)  QMD: 2.839 MMDistDelta: 0.400
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.016 1.843 -3.622} (4.064 D) Ratio: 2.79
+Current objective value: 6670.576544 ( En: 4921.864839  Dist: 63.000000 Dipole: 1685.711706 )
+
+
+Current test charges: N1 -0.995   H1 0.833   C2 C5 -0.158   C3 C4 -0.121   
+Iteration: 46
+N1 QME: -7.532 MME: -6.810 (0.722)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -16.685 (-13.831)  QMD: 2.314 MMDistDelta: -0.400
+H21 QME: -1.045 MME: -0.613 (0.432)  QMD: 2.777 MMDistDelta: 0.250
+H22 QME: -0.663 MME: 1.132 (1.795)  QMD: 2.836 MMDistDelta: 0.400
+H31 QME: -1.052 MME: -1.628 (-0.576)  QMD: 2.857 MMDistDelta: 0.050
+H32 QME: -0.936 MME: -0.667 (0.268)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -1.628 (-0.576)  QMD: 2.859 MMDistDelta: 0.050
+H42 QME: -0.932 MME: -0.664 (0.268)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.611 (0.436)  QMD: 2.777 MMDistDelta: 0.250
+H52 QME: -0.661 MME: 1.131 (1.793)  QMD: 2.839 MMDistDelta: 0.400
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.016 1.758 -3.627} (4.031 D) Ratio: 2.77
+Current objective value: 6685.026297 ( En: 4986.124026  Dist: 64.250000 Dipole: 1634.652271 )
+
+
+Current test charges: N1 -0.954   H1 0.654   C2 C5 -0.031   C3 C4 -0.179   
+Iteration: 47
+N1 QME: -7.532 MME: -7.097 (0.434)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -11.128 (-8.274)  QMD: 2.314 MMDistDelta: -0.400
+H21 QME: -1.045 MME: -0.815 (0.230)  QMD: 2.777 MMDistDelta: 0.200
+H22 QME: -0.663 MME: 0.460 (1.123)  QMD: 2.836 MMDistDelta: 0.400
+H31 QME: -1.052 MME: -1.215 (-0.163)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.630 (0.306)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -1.215 (-0.163)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.630 (0.303)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.813 (0.234)  QMD: 2.777 MMDistDelta: 0.200
+H52 QME: -0.661 MME: 0.460 (1.121)  QMD: 2.839 MMDistDelta: 0.400
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.013 1.505 -2.320} (2.765 D) Ratio: 1.90
+Current objective value: 2010.934090 ( En: 1787.848503  Dist: 62.500000 Dipole: 160.585587 )
+
+
+Current test charges: N1 -0.934   H1 0.565   C2 C5 0.033   C3 C4 -0.208   
+Iteration: 48
+N1 QME: -7.532 MME: -7.241 (0.290)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -8.464 (-5.610)  QMD: 2.314 MMDistDelta: -0.350
+H21 QME: -1.045 MME: -0.923 (0.122)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: 0.107 (0.770)  QMD: 2.836 MMDistDelta: 0.250
+H31 QME: -1.052 MME: -1.011 (0.041)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.613 (0.322)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -1.011 (0.041)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.612 (0.320)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.921 (0.126)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: 0.108 (0.769)  QMD: 2.839 MMDistDelta: 0.250
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.012 1.379 -1.666} (2.163 D) Ratio: 1.49
+Current objective value: 860.194406 ( En: 824.444406  Dist: 35.750000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.859   H1 0.274   C2 C5 0.282   C3 C4 -0.349   
+Iteration: 49
+N1 QME: -7.532 MME: -7.275 (0.257)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -1.528 (1.326)  QMD: 2.314 MMDistDelta: -0.050
+H21 QME: -1.045 MME: -1.480 (-0.435)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -1.385 (-0.722)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: -0.125 (0.926)  QMD: 2.857 MMDistDelta: 0.300
+H32 QME: -0.936 MME: -0.302 (0.634)  QMD: 2.845 MMDistDelta: 0.250
+H41 QME: -1.052 MME: -0.125 (0.928)  QMD: 2.859 MMDistDelta: 0.300
+H42 QME: -0.932 MME: -0.302 (0.630)  QMD: 2.823 MMDistDelta: 0.300
+H51 QME: -1.047 MME: -1.480 (-0.433)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -1.384 (-0.723)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.003 0.285 0.563} (0.631 D) Ratio: 0.43
+Current objective value: 2955.394219 ( En: 144.034105  Dist: 34.000000 Dipole: 2777.360114 )
+
+
+Current test charges: N1 -0.859   H1 0.274   C2 C5 0.282   C3 C4 -0.349   
+Iteration: 50
+N1 QME: -7.532 MME: -7.275 (0.257)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -1.528 (1.326)  QMD: 2.314 MMDistDelta: -0.050
+H21 QME: -1.045 MME: -1.480 (-0.435)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -1.385 (-0.722)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: -0.125 (0.926)  QMD: 2.857 MMDistDelta: 0.300
+H32 QME: -0.936 MME: -0.302 (0.634)  QMD: 2.845 MMDistDelta: 0.250
+H41 QME: -1.052 MME: -0.125 (0.928)  QMD: 2.859 MMDistDelta: 0.300
+H42 QME: -0.932 MME: -0.302 (0.630)  QMD: 2.823 MMDistDelta: 0.300
+H51 QME: -1.047 MME: -1.480 (-0.433)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -1.384 (-0.723)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.003 0.285 0.563} (0.631 D) Ratio: 0.43
+Current objective value: 2955.394219 ( En: 144.034105  Dist: 34.000000 Dipole: 2777.360114 )
+
+
+Current test charges: N1 -0.885   H1 0.370   C2 C5 0.195   C3 C4 -0.298   
+Iteration: 51
+N1 QME: -7.532 MME: -7.313 (0.218)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.503 (-0.649)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -1.269 (-0.225)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.851 (-0.187)  QMD: 2.836 MMDistDelta: 0.050
+H31 QME: -1.052 MME: -0.437 (0.615)  QMD: 2.857 MMDistDelta: 0.200
+H32 QME: -0.936 MME: -0.430 (0.505)  QMD: 2.845 MMDistDelta: 0.200
+H41 QME: -1.052 MME: -0.436 (0.616)  QMD: 2.859 MMDistDelta: 0.200
+H42 QME: -0.932 MME: -0.430 (0.503)  QMD: 2.823 MMDistDelta: 0.250
+H51 QME: -1.047 MME: -1.269 (-0.222)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.850 (-0.189)  QMD: 2.839 MMDistDelta: 0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.006 0.723 -0.183} (0.746 D) Ratio: 0.51
+Current objective value: 544.918847 ( En: 47.641074  Dist: 24.750000 Dipole: 472.527773 )
+
+
+Current test charges: N1 -0.763   H1 0.170   C2 C5 0.233   C3 C4 -0.297   
+Iteration: 52
+N1 QME: -7.532 MME: -7.189 (0.342)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: 0.295 (3.149)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -1.240 (-0.196)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -1.395 (-0.732)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: -0.311 (0.740)  QMD: 2.857 MMDistDelta: 0.200
+H32 QME: -0.936 MME: -0.661 (0.275)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.310 (0.742)  QMD: 2.859 MMDistDelta: 0.200
+H42 QME: -0.932 MME: -0.662 (0.270)  QMD: 2.823 MMDistDelta: 0.200
+H51 QME: -1.047 MME: -1.241 (-0.194)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -1.395 (-0.734)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.009 1.080 0.953} (1.440 D) Ratio: 0.99
+Current objective value: 1299.835875 ( En: 310.739609  Dist: 32.250000 Dipole: 956.846266 )
+
+
+Current test charges: N1 -0.763   H1 0.170   C2 C5 0.233   C3 C4 -0.297   
+Iteration: 53
+N1 QME: -7.532 MME: -7.189 (0.342)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: 0.295 (3.149)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -1.240 (-0.196)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -1.395 (-0.732)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: -0.311 (0.740)  QMD: 2.857 MMDistDelta: 0.200
+H32 QME: -0.936 MME: -0.661 (0.275)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.310 (0.742)  QMD: 2.859 MMDistDelta: 0.200
+H42 QME: -0.932 MME: -0.662 (0.270)  QMD: 2.823 MMDistDelta: 0.200
+H51 QME: -1.047 MME: -1.241 (-0.194)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -1.395 (-0.734)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.009 1.080 0.953} (1.440 D) Ratio: 0.99
+Current objective value: 1299.835875 ( En: 310.739609  Dist: 32.250000 Dipole: 956.846266 )
+
+
+Current test charges: N1 -0.826   H1 0.294   C2 C5 0.184   C3 C4 -0.278   
+Iteration: 54
+N1 QME: -7.532 MME: -7.258 (0.273)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -1.807 (1.047)  QMD: 2.314 MMDistDelta: -0.050
+H21 QME: -1.045 MME: -1.177 (-0.133)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.957 (-0.293)  QMD: 2.836 MMDistDelta: 0.050
+H31 QME: -1.052 MME: -0.484 (0.568)  QMD: 2.857 MMDistDelta: 0.200
+H32 QME: -0.936 MME: -0.608 (0.328)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.483 (0.569)  QMD: 2.859 MMDistDelta: 0.200
+H42 QME: -0.932 MME: -0.608 (0.324)  QMD: 2.823 MMDistDelta: 0.200
+H51 QME: -1.047 MME: -1.177 (-0.130)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.956 (-0.295)  QMD: 2.839 MMDistDelta: 0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.009 1.083 0.173} (1.097 D) Ratio: 0.75
+Current objective value: 302.496691 ( En: 55.901609  Dist: 17.000000 Dipole: 229.595082 )
+
+
+Current test charges: N1 -1.058   H1 0.182   C2 C5 0.361   C3 C4 -0.283   
+Iteration: 55
+N1 QME: -7.532 MME: -10.860 (-3.328)  QMD: 3.031 MMDistDelta: -0.050
+H1 QME: -2.854 MME: 1.318 (4.172)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -1.292 (-0.247)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -1.635 (-0.972)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: -0.530 (0.522)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -1.116 (-0.181)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.528 (0.524)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -1.116 (-0.183)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.293 (-0.246)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -1.634 (-0.972)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.019 2.377 1.423} (2.770 D) Ratio: 1.90
+Current objective value: 1457.893927 ( En: 777.725458  Dist: 24.500000 Dipole: 655.668469 )
+
+
+Current test charges: N1 -0.995   H1 0.182   C2 C5 0.361   C3 C4 -0.315   
+Iteration: 56
+N1 QME: -7.532 MME: -9.826 (-2.294)  QMD: 3.031 MMDistDelta: -0.050
+H1 QME: -2.854 MME: 0.958 (3.812)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -1.398 (-0.354)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -1.707 (-1.044)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: -0.331 (0.721)  QMD: 2.857 MMDistDelta: 0.200
+H32 QME: -0.936 MME: -0.850 (0.086)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.329 (0.723)  QMD: 2.859 MMDistDelta: 0.200
+H42 QME: -0.932 MME: -0.849 (0.083)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.399 (-0.352)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -1.706 (-1.045)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.013 1.686 1.379} (2.178 D) Ratio: 1.50
+Current objective value: 1428.515052 ( En: 582.117391  Dist: 29.250000 Dipole: 817.147661 )
+
+
+Current test charges: N1 -0.947   H1 0.277   C2 C5 0.265   C3 C4 -0.290   
+Iteration: 57
+N1 QME: -7.532 MME: -8.737 (-1.206)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -0.811 (2.043)  QMD: 2.314 MMDistDelta: 0.050
+H21 QME: -1.045 MME: -1.267 (-0.222)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -1.202 (-0.539)  QMD: 2.836 MMDistDelta: 0.050
+H31 QME: -1.052 MME: -0.474 (0.578)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.738 (0.198)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.473 (0.579)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.737 (0.195)  QMD: 2.823 MMDistDelta: 0.200
+H51 QME: -1.047 MME: -1.267 (-0.220)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -1.201 (-0.539)  QMD: 2.839 MMDistDelta: 0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.012 1.459 0.560} (1.563 D) Ratio: 1.07
+Current objective value: 419.210520 ( En: 176.331007  Dist: 13.500000 Dipole: 229.379513 )
+
+
+Current test charges: N1 -0.861   H1 -0.009   C2 C5 0.451   C3 C4 -0.376   
+Iteration: 58
+N1 QME: -7.532 MME: -9.000 (-1.468)  QMD: 3.031 MMDistDelta: -0.050
+H1 QME: -2.854 MME: 3.092 (5.946)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -1.624 (-0.579)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -2.526 (-1.862)  QMD: 2.836 MMDistDelta: -0.050
+H31 QME: -1.052 MME: 0.113 (1.165)  QMD: 2.857 MMDistDelta: 0.300
+H32 QME: -0.936 MME: -0.702 (0.233)  QMD: 2.845 MMDistDelta: 0.200
+H41 QME: -1.052 MME: 0.115 (1.167)  QMD: 2.859 MMDistDelta: 0.300
+H42 QME: -0.932 MME: -0.703 (0.229)  QMD: 2.823 MMDistDelta: 0.200
+H51 QME: -1.047 MME: -1.626 (-0.579)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -2.524 (-1.863)  QMD: 2.839 MMDistDelta: -0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.008 1.081 2.592} (2.808 D) Ratio: 1.93
+Current objective value: 3926.271439 ( En: 1198.510216  Dist: 43.250000 Dipole: 2684.511223 )
+
+
+Current test charges: N1 -0.861   H1 0.005   C2 C5 0.451   C3 C4 -0.383   
+Iteration: 59
+N1 QME: -7.532 MME: -8.855 (-1.323)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: 2.856 (5.710)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -1.651 (-0.607)  QMD: 2.777 MMDistDelta: 0.000
+H22 QME: -0.663 MME: -2.509 (-1.845)  QMD: 2.836 MMDistDelta: -0.050
+H31 QME: -1.052 MME: 0.142 (1.194)  QMD: 2.857 MMDistDelta: 0.300
+H32 QME: -0.936 MME: -0.637 (0.299)  QMD: 2.845 MMDistDelta: 0.200
+H41 QME: -1.052 MME: 0.144 (1.196)  QMD: 2.859 MMDistDelta: 0.300
+H42 QME: -0.932 MME: -0.638 (0.294)  QMD: 2.823 MMDistDelta: 0.250
+H51 QME: -1.047 MME: -1.653 (-0.606)  QMD: 2.777 MMDistDelta: 0.000
+H52 QME: -0.661 MME: -2.507 (-1.846)  QMD: 2.839 MMDistDelta: -0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.007 0.925 2.513} (2.678 D) Ratio: 1.84
+Current objective value: 3973.673673 ( En: 1123.401354  Dist: 44.750000 Dipole: 2805.522319 )
+
+
+Current test charges: N1 -0.882   H1 0.160   C2 C5 0.333   C3 C4 -0.332   
+Iteration: 60
+N1 QME: -7.532 MME: -8.430 (-0.898)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: 0.781 (3.635)  QMD: 2.314 MMDistDelta: 0.400
+H21 QME: -1.045 MME: -1.430 (-0.385)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -1.732 (-1.069)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: -0.180 (0.872)  QMD: 2.857 MMDistDelta: 0.250
+H32 QME: -0.936 MME: -0.643 (0.293)  QMD: 2.845 MMDistDelta: 0.200
+H41 QME: -1.052 MME: -0.179 (0.874)  QMD: 2.859 MMDistDelta: 0.250
+H42 QME: -0.932 MME: -0.644 (0.288)  QMD: 2.823 MMDistDelta: 0.200
+H51 QME: -1.047 MME: -1.431 (-0.384)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -1.731 (-1.069)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.009 1.087 1.349} (1.733 D) Ratio: 1.19
+Current objective value: 1910.161132 ( En: 457.320325  Dist: 37.000000 Dipole: 1415.840807 )
+
+
+Current test charges: N1 -0.892   H1 0.238   C2 C5 0.274   C3 C4 -0.307   
+Iteration: 61
+N1 QME: -7.532 MME: -8.218 (-0.686)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -0.356 (2.498)  QMD: 2.314 MMDistDelta: 0.100
+H21 QME: -1.045 MME: -1.319 (-0.275)  QMD: 2.777 MMDistDelta: 0.050
+H22 QME: -0.663 MME: -1.352 (-0.689)  QMD: 2.836 MMDistDelta: 0.000
+H31 QME: -1.052 MME: -0.345 (0.706)  QMD: 2.857 MMDistDelta: 0.200
+H32 QME: -0.936 MME: -0.646 (0.289)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.344 (0.708)  QMD: 2.859 MMDistDelta: 0.200
+H42 QME: -0.932 MME: -0.647 (0.285)  QMD: 2.823 MMDistDelta: 0.200
+H51 QME: -1.047 MME: -1.320 (-0.273)  QMD: 2.777 MMDistDelta: 0.050
+H52 QME: -0.661 MME: -1.352 (-0.690)  QMD: 2.839 MMDistDelta: 0.000
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.009 1.168 0.767} (1.397 D) Ratio: 0.96
+Current objective value: 873.949855 ( En: 224.434810  Dist: 15.750000 Dipole: 633.765045 )
+
+
+Current test charges: N1 -0.897   H1 0.277   C2 C5 0.244   C3 C4 -0.294   
+Iteration: 62
+N1 QME: -7.532 MME: -8.111 (-0.580)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -1.086 (1.768)  QMD: 2.314 MMDistDelta: 0.000
+H21 QME: -1.045 MME: -1.266 (-0.221)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -1.167 (-0.503)  QMD: 2.836 MMDistDelta: 0.050
+H31 QME: -1.052 MME: -0.428 (0.623)  QMD: 2.857 MMDistDelta: 0.200
+H32 QME: -0.936 MME: -0.649 (0.287)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.427 (0.625)  QMD: 2.859 MMDistDelta: 0.200
+H42 QME: -0.932 MME: -0.649 (0.283)  QMD: 2.823 MMDistDelta: 0.200
+H51 QME: -1.047 MME: -1.266 (-0.219)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -1.165 (-0.504)  QMD: 2.839 MMDistDelta: 0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.010 1.209 0.476} (1.299 D) Ratio: 0.89
+Current objective value: 461.535274 ( En: 125.155839  Dist: 16.750000 Dipole: 319.629435 )
+
+
+Current test charges: N1 -0.737   H1 0.357   C2 C5 0.057   C3 C4 -0.227   
+Iteration: 63
+N1 QME: -7.532 MME: -6.169 (1.363)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -3.695 (-0.841)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -0.942 (0.103)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.426 (0.237)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -0.738 (0.313)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.651 (0.284)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.738 (0.314)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.650 (0.282)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.941 (0.106)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.425 (0.236)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.010 1.196 -0.575} (1.327 D) Ratio: 0.91
+Current objective value: 181.376166 ( En: 76.408672  Dist: 22.250000 Dipole: 82.717494 )
+
+
+Current test charges: N1 -0.737   H1 0.357   C2 C5 0.057   C3 C4 -0.227   
+Iteration: 64
+N1 QME: -7.532 MME: -6.169 (1.363)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -3.695 (-0.841)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -0.942 (0.103)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.426 (0.237)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -0.738 (0.313)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.651 (0.284)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.738 (0.314)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.650 (0.282)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.941 (0.106)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.425 (0.236)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.010 1.196 -0.575} (1.327 D) Ratio: 0.91
+Current objective value: 181.376166 ( En: 76.408672  Dist: 22.250000 Dipole: 82.717494 )
+
+
+Current test charges: N1 -0.812   H1 0.236   C2 C5 0.145   C3 C4 -0.217   
+Iteration: 65
+N1 QME: -7.532 MME: -7.905 (-0.374)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -0.317 (2.537)  QMD: 2.314 MMDistDelta: 0.150
+H21 QME: -1.045 MME: -0.935 (0.109)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.865 (-0.202)  QMD: 2.836 MMDistDelta: 0.050
+H31 QME: -1.052 MME: -0.788 (0.263)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -1.051 (-0.116)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.787 (0.265)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -1.050 (-0.118)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.935 (0.112)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.865 (-0.203)  QMD: 2.839 MMDistDelta: 0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.017 2.123 0.384} (2.158 D) Ratio: 1.48
+Current objective value: 221.306324 ( En: 171.291743  Dist: 8.750000 Dipole: 41.264580 )
+
+
+Current test charges: N1 -0.812   H1 0.236   C2 C5 0.145   C3 C4 -0.217   
+Iteration: 66
+N1 QME: -7.532 MME: -7.905 (-0.374)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -0.317 (2.537)  QMD: 2.314 MMDistDelta: 0.150
+H21 QME: -1.045 MME: -0.935 (0.109)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.865 (-0.202)  QMD: 2.836 MMDistDelta: 0.050
+H31 QME: -1.052 MME: -0.788 (0.263)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -1.051 (-0.116)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.787 (0.265)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -1.050 (-0.118)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.935 (0.112)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.865 (-0.203)  QMD: 2.839 MMDistDelta: 0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.017 2.123 0.384} (2.158 D) Ratio: 1.48
+Current objective value: 221.306324 ( En: 171.291743  Dist: 8.750000 Dipole: 41.264580 )
+
+
+Current test charges: N1 -0.757   H1 0.339   C2 C5 0.036   C3 C4 -0.187   
+Iteration: 67
+N1 QME: -7.532 MME: -6.787 (0.745)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -2.853 (0.001)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.795 (0.249)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.338 (0.326)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -0.964 (0.088)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.944 (-0.009)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.963 (0.089)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.943 (-0.010)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.795 (0.252)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.337 (0.324)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.016 1.913 -0.516} (1.981 D) Ratio: 1.36
+Current objective value: 38.190487 ( En: 22.690487  Dist: 15.500000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.757   H1 0.339   C2 C5 0.036   C3 C4 -0.187   
+Iteration: 68
+N1 QME: -7.532 MME: -6.787 (0.745)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -2.853 (0.001)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.795 (0.249)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.338 (0.326)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -0.964 (0.088)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.944 (-0.009)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.963 (0.089)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.943 (-0.010)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.795 (0.252)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.337 (0.324)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.016 1.913 -0.516} (1.981 D) Ratio: 1.36
+Current objective value: 38.190487 ( En: 22.690487  Dist: 15.500000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.604   H1 0.366   C2 C5 -0.096   C3 C4 -0.145   
+Iteration: 69
+N1 QME: -7.532 MME: -5.195 (2.336)  QMD: 3.031 MMDistDelta: 0.100
+H1 QME: -2.854 MME: -4.336 (-1.482)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -0.592 (0.453)  QMD: 2.777 MMDistDelta: 0.200
+H22 QME: -0.663 MME: 0.071 (0.735)  QMD: 2.836 MMDistDelta: 0.250
+H31 QME: -1.052 MME: -1.130 (-0.078)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.923 (0.013)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -1.129 (-0.077)  QMD: 2.859 MMDistDelta: 0.050
+H42 QME: -0.932 MME: -0.922 (0.011)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.591 (0.456)  QMD: 2.777 MMDistDelta: 0.200
+H52 QME: -0.661 MME: 0.072 (0.733)  QMD: 2.839 MMDistDelta: 0.250
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.796 -1.119} (2.116 D) Ratio: 1.45
+Current objective value: 257.659478 ( En: 228.909478  Dist: 28.750000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.604   H1 0.366   C2 C5 -0.096   C3 C4 -0.145   
+Iteration: 70
+N1 QME: -7.532 MME: -5.195 (2.336)  QMD: 3.031 MMDistDelta: 0.100
+H1 QME: -2.854 MME: -4.336 (-1.482)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -0.592 (0.453)  QMD: 2.777 MMDistDelta: 0.200
+H22 QME: -0.663 MME: 0.071 (0.735)  QMD: 2.836 MMDistDelta: 0.250
+H31 QME: -1.052 MME: -1.130 (-0.078)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.923 (0.013)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -1.129 (-0.077)  QMD: 2.859 MMDistDelta: 0.050
+H42 QME: -0.932 MME: -0.922 (0.011)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.591 (0.456)  QMD: 2.777 MMDistDelta: 0.200
+H52 QME: -0.661 MME: 0.072 (0.733)  QMD: 2.839 MMDistDelta: 0.250
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.796 -1.119} (2.116 D) Ratio: 1.45
+Current objective value: 257.659478 ( En: 228.909478  Dist: 28.750000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.659   H1 0.378   C2 C5 -0.120   C3 C4 -0.099   
+Iteration: 71
+N1 QME: -7.532 MME: -6.040 (1.491)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -4.020 (-1.166)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -0.439 (0.605)  QMD: 2.777 MMDistDelta: 0.250
+H22 QME: -0.663 MME: 0.229 (0.892)  QMD: 2.836 MMDistDelta: 0.350
+H31 QME: -1.052 MME: -1.428 (-0.376)  QMD: 2.857 MMDistDelta: 0.050
+H32 QME: -0.936 MME: -1.249 (-0.314)  QMD: 2.845 MMDistDelta: 0.050
+H41 QME: -1.052 MME: -1.427 (-0.375)  QMD: 2.859 MMDistDelta: 0.050
+H42 QME: -0.932 MME: -1.246 (-0.314)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.438 (0.609)  QMD: 2.777 MMDistDelta: 0.250
+H52 QME: -0.661 MME: 0.230 (0.891)  QMD: 2.839 MMDistDelta: 0.350
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.021 2.612 -1.212} (2.880 D) Ratio: 1.98
+Current objective value: 432.374941 ( En: 159.757766  Dist: 43.000000 Dipole: 229.617175 )
+
+
+Current test charges: N1 -0.659   H1 0.378   C2 C5 -0.120   C3 C4 -0.099   
+Iteration: 72
+N1 QME: -7.532 MME: -6.040 (1.491)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -4.020 (-1.166)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -0.439 (0.605)  QMD: 2.777 MMDistDelta: 0.250
+H22 QME: -0.663 MME: 0.229 (0.892)  QMD: 2.836 MMDistDelta: 0.350
+H31 QME: -1.052 MME: -1.428 (-0.376)  QMD: 2.857 MMDistDelta: 0.050
+H32 QME: -0.936 MME: -1.249 (-0.314)  QMD: 2.845 MMDistDelta: 0.050
+H41 QME: -1.052 MME: -1.427 (-0.375)  QMD: 2.859 MMDistDelta: 0.050
+H42 QME: -0.932 MME: -1.246 (-0.314)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.438 (0.609)  QMD: 2.777 MMDistDelta: 0.250
+H52 QME: -0.661 MME: 0.230 (0.891)  QMD: 2.839 MMDistDelta: 0.350
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.021 2.612 -1.212} (2.880 D) Ratio: 1.98
+Current objective value: 432.374941 ( En: 159.757766  Dist: 43.000000 Dipole: 229.617175 )
+
+
+Current test charges: N1 -0.706   H1 0.354   C2 C5 -0.034   C3 C4 -0.150   
+Iteration: 73
+N1 QME: -7.532 MME: -6.376 (1.155)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -3.359 (-0.505)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.638 (0.407)  QMD: 2.777 MMDistDelta: 0.200
+H22 QME: -0.663 MME: -0.084 (0.579)  QMD: 2.836 MMDistDelta: 0.200
+H31 QME: -1.052 MME: -1.153 (-0.101)  QMD: 2.857 MMDistDelta: 0.050
+H32 QME: -0.936 MME: -1.062 (-0.126)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -1.152 (-0.100)  QMD: 2.859 MMDistDelta: 0.050
+H42 QME: -0.932 MME: -1.062 (-0.129)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.637 (0.410)  QMD: 2.777 MMDistDelta: 0.200
+H52 QME: -0.661 MME: -0.083 (0.578)  QMD: 2.839 MMDistDelta: 0.200
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.018 2.180 -0.820} (2.329 D) Ratio: 1.60
+Current objective value: 97.335705 ( En: 66.135940  Dist: 21.000000 Dipole: 10.199765 )
+
+
+Current test charges: N1 -0.995   H1 0.279   C2 C5 0.272   C3 C4 -0.274   
+Iteration: 74
+N1 QME: -7.532 MME: -9.451 (-1.920)  QMD: 3.031 MMDistDelta: -0.050
+H1 QME: -2.854 MME: -0.507 (2.347)  QMD: 2.314 MMDistDelta: 0.050
+H21 QME: -1.045 MME: -1.221 (-0.176)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -1.182 (-0.518)  QMD: 2.836 MMDistDelta: 0.050
+H31 QME: -1.052 MME: -0.582 (0.469)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.889 (0.047)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.581 (0.471)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.889 (0.043)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.221 (-0.174)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -1.180 (-0.519)  QMD: 2.839 MMDistDelta: 0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.863 0.606} (1.959 D) Ratio: 1.35
+Current objective value: 420.705421 ( En: 255.996384  Dist: 12.000000 Dipole: 152.709037 )
+
+
+Current test charges: N1 -0.995   H1 0.279   C2 C5 0.272   C3 C4 -0.274   
+Iteration: 75
+N1 QME: -7.532 MME: -9.451 (-1.920)  QMD: 3.031 MMDistDelta: -0.050
+H1 QME: -2.854 MME: -0.507 (2.347)  QMD: 2.314 MMDistDelta: 0.050
+H21 QME: -1.045 MME: -1.221 (-0.176)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -1.182 (-0.518)  QMD: 2.836 MMDistDelta: 0.050
+H31 QME: -1.052 MME: -0.582 (0.469)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.889 (0.047)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.581 (0.471)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.889 (0.043)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.221 (-0.174)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -1.180 (-0.519)  QMD: 2.839 MMDistDelta: 0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.863 0.606} (1.959 D) Ratio: 1.35
+Current objective value: 420.705421 ( En: 255.996384  Dist: 12.000000 Dipole: 152.709037 )
+
+
+Current test charges: N1 -0.884   H1 0.303   C2 C5 0.168   C3 C4 -0.238   
+Iteration: 76
+N1 QME: -7.532 MME: -8.183 (-0.651)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -1.479 (1.375)  QMD: 2.314 MMDistDelta: -0.050
+H21 QME: -1.045 MME: -1.036 (0.009)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.809 (-0.146)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.734 (0.318)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.898 (0.038)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.733 (0.319)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.898 (0.035)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.036 (0.011)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.808 (-0.147)  QMD: 2.839 MMDistDelta: 0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.844 0.118} (1.848 D) Ratio: 1.27
+Current objective value: 76.087764 ( En: 64.091321  Dist: 10.000000 Dipole: 1.996443 )
+
+
+Current test charges: N1 -0.758   H1 0.478   C2 C5 -0.031   C3 C4 -0.190   
+Iteration: 77
+N1 QME: -7.532 MME: -5.891 (1.641)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -6.882 (-4.028)  QMD: 2.314 MMDistDelta: -0.300
+H21 QME: -1.045 MME: -0.800 (0.245)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: 0.088 (0.752)  QMD: 2.836 MMDistDelta: 0.250
+H31 QME: -1.052 MME: -0.997 (0.055)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.651 (0.284)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.996 (0.056)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.651 (0.281)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.798 (0.249)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: 0.089 (0.750)  QMD: 2.839 MMDistDelta: 0.250
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.011 1.308 -1.470} (1.968 D) Ratio: 1.35
+Current objective value: 541.016969 ( En: 508.266969  Dist: 32.750000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.758   H1 0.478   C2 C5 -0.031   C3 C4 -0.190   
+Iteration: 78
+N1 QME: -7.532 MME: -5.891 (1.641)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -6.882 (-4.028)  QMD: 2.314 MMDistDelta: -0.300
+H21 QME: -1.045 MME: -0.800 (0.245)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: 0.088 (0.752)  QMD: 2.836 MMDistDelta: 0.250
+H31 QME: -1.052 MME: -0.997 (0.055)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.651 (0.284)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.996 (0.056)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.651 (0.281)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.798 (0.249)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: 0.089 (0.750)  QMD: 2.839 MMDistDelta: 0.250
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.011 1.308 -1.470} (1.968 D) Ratio: 1.35
+Current objective value: 541.016969 ( En: 508.266969  Dist: 32.750000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.773   H1 0.410   C2 C5 0.019   C3 C4 -0.197   
+Iteration: 79
+N1 QME: -7.532 MME: -6.447 (1.085)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -4.759 (-1.905)  QMD: 2.314 MMDistDelta: -0.250
+H21 QME: -1.045 MME: -0.837 (0.207)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.171 (0.493)  QMD: 2.836 MMDistDelta: 0.200
+H31 QME: -1.052 MME: -0.938 (0.114)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.763 (0.172)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.937 (0.115)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.763 (0.169)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.837 (0.210)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.170 (0.491)  QMD: 2.839 MMDistDelta: 0.200
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.013 1.538 -0.946} (1.806 D) Ratio: 1.24
+Current objective value: 160.767186 ( En: 136.517186  Dist: 24.250000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.872   H1 0.346   C2 C5 0.067   C3 C4 -0.164   
+Iteration: 80
+N1 QME: -7.532 MME: -8.283 (-0.751)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.177 (0.677)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -0.741 (0.304)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.338 (0.325)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -1.158 (-0.107)  QMD: 2.857 MMDistDelta: 0.050
+H32 QME: -0.936 MME: -1.230 (-0.295)  QMD: 2.845 MMDistDelta: 0.050
+H41 QME: -1.052 MME: -1.158 (-0.105)  QMD: 2.859 MMDistDelta: 0.050
+H42 QME: -0.932 MME: -1.230 (-0.298)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.740 (0.307)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.337 (0.324)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.021 2.671 -0.394} (2.700 D) Ratio: 1.86
+Current objective value: 178.623868 ( En: 40.437821  Dist: 11.750000 Dipole: 126.436047 )
+
+
+Current test charges: N1 -0.872   H1 0.346   C2 C5 0.067   C3 C4 -0.164   
+Iteration: 81
+N1 QME: -7.532 MME: -8.283 (-0.751)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.177 (0.677)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -0.741 (0.304)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.338 (0.325)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -1.158 (-0.107)  QMD: 2.857 MMDistDelta: 0.050
+H32 QME: -0.936 MME: -1.230 (-0.295)  QMD: 2.845 MMDistDelta: 0.050
+H41 QME: -1.052 MME: -1.158 (-0.105)  QMD: 2.859 MMDistDelta: 0.050
+H42 QME: -0.932 MME: -1.230 (-0.298)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.740 (0.307)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.337 (0.324)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.021 2.671 -0.394} (2.700 D) Ratio: 1.86
+Current objective value: 178.623868 ( En: 40.437821  Dist: 11.750000 Dipole: 126.436047 )
+
+
+Current test charges: N1 -0.834   H1 0.349   C2 C5 0.064   C3 C4 -0.181   
+Iteration: 82
+N1 QME: -7.532 MME: -7.674 (-0.142)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.593 (0.261)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.798 (0.247)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.363 (0.301)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -1.038 (0.014)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -1.064 (-0.129)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -1.037 (0.015)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -1.064 (-0.131)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.797 (0.250)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.362 (0.299)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.018 2.254 -0.445} (2.298 D) Ratio: 1.58
+Current objective value: 32.179632 ( En: 10.653326  Dist: 15.250000 Dipole: 6.276306 )
+
+
+Current test charges: N1 -0.853   H1 0.249   C2 C5 0.137   C3 C4 -0.195   
+Iteration: 83
+N1 QME: -7.532 MME: -8.477 (-0.945)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -0.258 (2.596)  QMD: 2.314 MMDistDelta: 0.150
+H21 QME: -1.045 MME: -0.858 (0.187)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.769 (-0.105)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.941 (0.111)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -1.216 (-0.280)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.939 (0.113)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -1.217 (-0.285)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.858 (0.189)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.768 (-0.106)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.020 2.555 0.319} (2.575 D) Ratio: 1.77
+Current objective value: 299.554817 ( En: 197.719944  Dist: 12.750000 Dipole: 89.084873 )
+
+
+Current test charges: N1 -0.853   H1 0.249   C2 C5 0.137   C3 C4 -0.195   
+Iteration: 84
+N1 QME: -7.532 MME: -8.477 (-0.945)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -0.258 (2.596)  QMD: 2.314 MMDistDelta: 0.150
+H21 QME: -1.045 MME: -0.858 (0.187)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.769 (-0.105)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.941 (0.111)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -1.216 (-0.280)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.939 (0.113)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -1.217 (-0.285)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.858 (0.189)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.768 (-0.106)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.020 2.555 0.319} (2.575 D) Ratio: 1.77
+Current objective value: 299.554817 ( En: 197.719944  Dist: 12.750000 Dipole: 89.084873 )
+
+
+Current test charges: N1 -0.830   H1 0.294   C2 C5 0.103   C3 C4 -0.195   
+Iteration: 85
+N1 QME: -7.532 MME: -7.896 (-0.365)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -1.355 (1.499)  QMD: 2.314 MMDistDelta: -0.050
+H21 QME: -1.045 MME: -0.852 (0.192)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.597 (0.067)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.940 (0.112)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -1.088 (-0.153)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.939 (0.113)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -1.088 (-0.155)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.852 (0.195)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.596 (0.065)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.018 2.268 -0.039} (2.268 D) Ratio: 1.56
+Current objective value: 77.668483 ( En: 63.441301  Dist: 10.750000 Dipole: 3.477183 )
+
+
+Current test charges: N1 -0.997   H1 0.294   C2 C5 0.269   C3 C4 -0.278   
+Iteration: 86
+N1 QME: -7.532 MME: -9.350 (-1.818)  QMD: 3.031 MMDistDelta: -0.050
+H1 QME: -2.854 MME: -0.833 (2.021)  QMD: 2.314 MMDistDelta: 0.000
+H21 QME: -1.045 MME: -1.234 (-0.189)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -1.148 (-0.484)  QMD: 2.836 MMDistDelta: 0.050
+H31 QME: -1.052 MME: -0.570 (0.481)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.843 (0.093)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.569 (0.483)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.843 (0.089)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.234 (-0.187)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -1.146 (-0.485)  QMD: 2.839 MMDistDelta: 0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.761 0.515} (1.835 D) Ratio: 1.26
+Current objective value: 343.995951 ( En: 210.310802  Dist: 11.750000 Dipole: 121.935149 )
+
+
+Current test charges: N1 -0.997   H1 0.294   C2 C5 0.269   C3 C4 -0.278   
+Iteration: 87
+N1 QME: -7.532 MME: -9.350 (-1.818)  QMD: 3.031 MMDistDelta: -0.050
+H1 QME: -2.854 MME: -0.833 (2.021)  QMD: 2.314 MMDistDelta: 0.000
+H21 QME: -1.045 MME: -1.234 (-0.189)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -1.148 (-0.484)  QMD: 2.836 MMDistDelta: 0.050
+H31 QME: -1.052 MME: -0.570 (0.481)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.843 (0.093)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.569 (0.483)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.843 (0.089)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.234 (-0.187)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -1.146 (-0.485)  QMD: 2.839 MMDistDelta: 0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.761 0.515} (1.835 D) Ratio: 1.26
+Current objective value: 343.995951 ( En: 210.310802  Dist: 11.750000 Dipole: 121.935149 )
+
+
+Current test charges: N1 -0.915   H1 0.311   C2 C5 0.184   C3 C4 -0.241   
+Iteration: 88
+N1 QME: -7.532 MME: -8.473 (-0.941)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -1.499 (1.355)  QMD: 2.314 MMDistDelta: -0.050
+H21 QME: -1.045 MME: -1.061 (-0.016)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.834 (-0.171)  QMD: 2.836 MMDistDelta: 0.050
+H31 QME: -1.052 MME: -0.731 (0.320)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.903 (0.033)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.730 (0.322)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.903 (0.029)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.061 (-0.014)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.834 (-0.172)  QMD: 2.839 MMDistDelta: 0.050
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.880 0.138} (1.885 D) Ratio: 1.30
+Current objective value: 88.512044 ( En: 74.760893  Dist: 10.500000 Dipole: 3.251150 )
+
+
+Current test charges: N1 -0.874   H1 0.319   C2 C5 0.141   C3 C4 -0.223   
+Iteration: 89
+N1 QME: -7.532 MME: -8.051 (-0.519)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -1.843 (1.011)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -0.974 (0.071)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.682 (-0.019)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.814 (0.238)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.934 (0.001)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.813 (0.239)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.933 (-0.001)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.974 (0.073)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.681 (-0.020)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.016 1.939 -0.051} (1.940 D) Ratio: 1.33
+Current objective value: 45.649482 ( En: 35.399482  Dist: 10.250000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.856   H1 0.383   C2 C5 0.108   C3 C4 -0.231   
+Iteration: 90
+N1 QME: -7.532 MME: -7.352 (0.180)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.657 (-0.803)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -0.994 (0.051)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.485 (0.179)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.783 (0.268)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.737 (0.199)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.782 (0.270)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.737 (0.195)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.993 (0.054)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.484 (0.177)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.012 1.496 -0.507} (1.580 D) Ratio: 1.09
+Current objective value: 56.748374 ( En: 24.196827  Dist: 19.500000 Dipole: 13.051547 )
+
+
+Current test charges: N1 -0.856   H1 0.383   C2 C5 0.108   C3 C4 -0.231   
+Iteration: 91
+N1 QME: -7.532 MME: -7.352 (0.180)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.657 (-0.803)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -0.994 (0.051)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.485 (0.179)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.783 (0.268)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.737 (0.199)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.782 (0.270)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.737 (0.195)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.993 (0.054)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.484 (0.177)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.012 1.496 -0.507} (1.580 D) Ratio: 1.09
+Current objective value: 56.748374 ( En: 24.196827  Dist: 19.500000 Dipole: 13.051547 )
+
+
+Current test charges: N1 -0.772   H1 0.408   C2 C5 -0.005   C3 C4 -0.173   
+Iteration: 92
+N1 QME: -7.532 MME: -6.617 (0.914)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -4.555 (-1.701)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -0.744 (0.301)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.077 (0.587)  QMD: 2.836 MMDistDelta: 0.200
+H31 QME: -1.052 MME: -1.073 (-0.021)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.908 (0.027)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -1.072 (-0.020)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.906 (0.026)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.743 (0.304)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.076 (0.585)  QMD: 2.839 MMDistDelta: 0.200
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.016 1.887 -0.999} (2.135 D) Ratio: 1.47
+Current objective value: 135.764476 ( En: 115.014476  Dist: 20.750000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.772   H1 0.408   C2 C5 -0.005   C3 C4 -0.173   
+Iteration: 93
+N1 QME: -7.532 MME: -6.617 (0.914)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -4.555 (-1.701)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -0.744 (0.301)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.077 (0.587)  QMD: 2.836 MMDistDelta: 0.200
+H31 QME: -1.052 MME: -1.073 (-0.021)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.908 (0.027)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -1.072 (-0.020)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.906 (0.026)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.743 (0.304)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.076 (0.585)  QMD: 2.839 MMDistDelta: 0.200
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.016 1.887 -0.999} (2.135 D) Ratio: 1.47
+Current objective value: 135.764476 ( En: 115.014476  Dist: 20.750000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.804   H1 0.378   C2 C5 0.044   C3 C4 -0.191   
+Iteration: 94
+N1 QME: -7.532 MME: -7.045 (0.486)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.630 (-0.776)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -0.825 (0.220)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.278 (0.386)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -0.977 (0.075)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.905 (0.030)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.976 (0.076)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.903 (0.029)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.824 (0.223)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.277 (0.384)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.875 -0.683} (1.996 D) Ratio: 1.37
+Current objective value: 49.413981 ( En: 31.163981  Dist: 18.250000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.786   H1 0.302   C2 C5 0.045   C3 C4 -0.163   
+Iteration: 95
+N1 QME: -7.532 MME: -7.536 (-0.005)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -1.630 (1.224)  QMD: 2.314 MMDistDelta: -0.050
+H21 QME: -1.045 MME: -0.715 (0.330)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.387 (0.277)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -1.100 (-0.049)  QMD: 2.857 MMDistDelta: 0.050
+H32 QME: -0.936 MME: -1.199 (-0.263)  QMD: 2.845 MMDistDelta: 0.050
+H41 QME: -1.052 MME: -1.099 (-0.047)  QMD: 2.859 MMDistDelta: 0.050
+H42 QME: -0.932 MME: -1.199 (-0.266)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.714 (0.333)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.386 (0.275)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.020 2.514 -0.267} (2.528 D) Ratio: 1.74
+Current objective value: 117.740272 ( En: 50.368378  Dist: 11.000000 Dipole: 56.371894 )
+
+
+Current test charges: N1 -0.786   H1 0.302   C2 C5 0.045   C3 C4 -0.163   
+Iteration: 96
+N1 QME: -7.532 MME: -7.536 (-0.005)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -1.630 (1.224)  QMD: 2.314 MMDistDelta: -0.050
+H21 QME: -1.045 MME: -0.715 (0.330)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.387 (0.277)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -1.100 (-0.049)  QMD: 2.857 MMDistDelta: 0.050
+H32 QME: -0.936 MME: -1.199 (-0.263)  QMD: 2.845 MMDistDelta: 0.050
+H41 QME: -1.052 MME: -1.099 (-0.047)  QMD: 2.859 MMDistDelta: 0.050
+H42 QME: -0.932 MME: -1.199 (-0.266)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.714 (0.333)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.386 (0.275)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.020 2.514 -0.267} (2.528 D) Ratio: 1.74
+Current objective value: 117.740272 ( En: 50.368378  Dist: 11.000000 Dipole: 56.371894 )
+
+
+Current test charges: N1 -0.805   H1 0.325   C2 C5 0.063   C3 C4 -0.183   
+Iteration: 97
+N1 QME: -7.532 MME: -7.484 (0.048)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.173 (0.681)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -0.794 (0.251)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.414 (0.249)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -1.010 (0.042)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -1.067 (-0.131)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -1.009 (0.044)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -1.066 (-0.134)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.793 (0.254)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.413 (0.248)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.018 2.226 -0.335} (2.251 D) Ratio: 1.55
+Current objective value: 35.134355 ( En: 18.900427  Dist: 14.000000 Dipole: 2.233928 )
+
+
+Current test charges: N1 -0.854   H1 0.284   C2 C5 0.136   C3 C4 -0.211   
+Iteration: 98
+N1 QME: -7.532 MME: -8.137 (-0.605)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -1.065 (1.789)  QMD: 2.314 MMDistDelta: 0.000
+H21 QME: -1.045 MME: -0.920 (0.124)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.725 (-0.062)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.861 (0.190)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -1.051 (-0.115)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.860 (0.192)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -1.050 (-0.117)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.920 (0.127)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.724 (-0.063)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.017 2.183 0.122} (2.186 D) Ratio: 1.50
+Current objective value: 101.795854 ( En: 92.673356  Dist: 8.000000 Dipole: 1.122498 )
+
+
+Current test charges: N1 -0.854   H1 0.284   C2 C5 0.136   C3 C4 -0.211   
+Iteration: 99
+N1 QME: -7.532 MME: -8.137 (-0.605)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -1.065 (1.789)  QMD: 2.314 MMDistDelta: 0.000
+H21 QME: -1.045 MME: -0.920 (0.124)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.725 (-0.062)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.861 (0.190)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -1.051 (-0.115)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.860 (0.192)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -1.050 (-0.117)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.920 (0.127)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.724 (-0.063)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.017 2.183 0.122} (2.186 D) Ratio: 1.50
+Current objective value: 101.795854 ( En: 92.673356  Dist: 8.000000 Dipole: 1.122498 )
+
+
+Current test charges: N1 -0.840   H1 0.311   C2 C5 0.110   C3 C4 -0.205   
+Iteration: 100
+N1 QME: -7.532 MME: -7.828 (-0.297)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -1.735 (1.119)  QMD: 2.314 MMDistDelta: -0.050
+H21 QME: -1.045 MME: -0.893 (0.152)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.597 (0.067)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.894 (0.158)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -1.010 (-0.074)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.893 (0.159)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -1.008 (-0.076)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.893 (0.154)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.596 (0.065)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.017 2.096 -0.105} (2.098 D) Ratio: 1.44
+Current objective value: 47.151242 ( En: 36.401242  Dist: 10.750000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.833   H1 0.324   C2 C5 0.097   C3 C4 -0.203   
+Iteration: 101
+N1 QME: -7.532 MME: -7.674 (-0.142)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.090 (0.764)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -0.880 (0.165)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.533 (0.131)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.910 (0.141)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.989 (-0.053)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.909 (0.143)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.988 (-0.055)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.879 (0.168)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.532 (0.129)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.017 2.052 -0.219} (2.064 D) Ratio: 1.42
+Current objective value: 29.977686 ( En: 18.477686  Dist: 11.500000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.744   H1 0.363   C2 C5 -0.010   C3 C4 -0.160   
+Iteration: 102
+N1 QME: -7.532 MME: -6.681 (0.851)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -3.399 (-0.545)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.686 (0.359)  QMD: 2.777 MMDistDelta: 0.200
+H22 QME: -0.663 MME: -0.136 (0.527)  QMD: 2.836 MMDistDelta: 0.200
+H31 QME: -1.052 MME: -1.118 (-0.066)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -1.038 (-0.103)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -1.117 (-0.065)  QMD: 2.859 MMDistDelta: 0.050
+H42 QME: -0.932 MME: -1.038 (-0.106)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.685 (0.362)  QMD: 2.777 MMDistDelta: 0.200
+H52 QME: -0.661 MME: -0.136 (0.525)  QMD: 2.839 MMDistDelta: 0.200
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.018 2.151 -0.777} (2.287 D) Ratio: 1.57
+Current objective value: 73.583055 ( En: 46.615384  Dist: 21.750000 Dipole: 5.217671 )
+
+
+Current test charges: N1 -0.744   H1 0.363   C2 C5 -0.010   C3 C4 -0.160   
+Iteration: 103
+N1 QME: -7.532 MME: -6.681 (0.851)  QMD: 3.031 MMDistDelta: 0.050
+H1 QME: -2.854 MME: -3.399 (-0.545)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.686 (0.359)  QMD: 2.777 MMDistDelta: 0.200
+H22 QME: -0.663 MME: -0.136 (0.527)  QMD: 2.836 MMDistDelta: 0.200
+H31 QME: -1.052 MME: -1.118 (-0.066)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -1.038 (-0.103)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -1.117 (-0.065)  QMD: 2.859 MMDistDelta: 0.050
+H42 QME: -0.932 MME: -1.038 (-0.106)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.685 (0.362)  QMD: 2.777 MMDistDelta: 0.200
+H52 QME: -0.661 MME: -0.136 (0.525)  QMD: 2.839 MMDistDelta: 0.200
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.018 2.151 -0.777} (2.287 D) Ratio: 1.57
+Current objective value: 73.583055 ( En: 46.615384  Dist: 21.750000 Dipole: 5.217671 )
+
+
+Current test charges: N1 -0.781   H1 0.350   C2 C5 0.033   C3 C4 -0.178   
+Iteration: 104
+N1 QME: -7.532 MME: -7.050 (0.481)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.949 (-0.095)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.767 (0.278)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.287 (0.377)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -1.032 (0.020)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -1.009 (-0.073)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -1.031 (0.021)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -1.008 (-0.076)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.766 (0.281)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.286 (0.375)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.017 2.091 -0.572} (2.168 D) Ratio: 1.49
+Current objective value: 32.531848 ( En: 17.281848  Dist: 15.250000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.907   H1 0.342   C2 C5 0.125   C3 C4 -0.203   
+Iteration: 105
+N1 QME: -7.532 MME: -8.445 (-0.914)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.100 (0.754)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -0.902 (0.142)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.552 (0.111)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.954 (0.097)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -1.055 (-0.119)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.953 (0.099)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -1.054 (-0.121)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.902 (0.145)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.551 (0.110)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.018 2.267 -0.198} (2.276 D) Ratio: 1.56
+Current objective value: 53.583077 ( En: 37.925835  Dist: 11.500000 Dipole: 4.157242 )
+
+
+Current test charges: N1 -0.907   H1 0.342   C2 C5 0.125   C3 C4 -0.203   
+Iteration: 106
+N1 QME: -7.532 MME: -8.445 (-0.914)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.100 (0.754)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -0.902 (0.142)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.552 (0.111)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.954 (0.097)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -1.055 (-0.119)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.953 (0.099)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -1.054 (-0.121)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.902 (0.145)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.551 (0.110)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.018 2.267 -0.198} (2.276 D) Ratio: 1.56
+Current objective value: 53.583077 ( En: 37.925835  Dist: 11.500000 Dipole: 4.157242 )
+
+
+Current test charges: N1 -0.865   H1 0.341   C2 C5 0.100   C3 C4 -0.198   
+Iteration: 107
+N1 QME: -7.532 MME: -7.973 (-0.441)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.309 (0.545)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -0.872 (0.173)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.490 (0.173)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.957 (0.095)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -1.024 (-0.088)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.956 (0.096)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -1.022 (-0.090)  QMD: 2.823 MMDistDelta: 0.100
+H51 QME: -1.047 MME: -0.872 (0.175)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.490 (0.172)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.018 2.167 -0.288} (2.186 D) Ratio: 1.50
+Current objective value: 27.642189 ( En: 16.134671  Dist: 11.500000 Dipole: 0.007519 )
+
+
+Current test charges: N1 -0.871   H1 0.368   C2 C5 0.107   C3 C4 -0.216   
+Iteration: 108
+N1 QME: -7.532 MME: -7.745 (-0.214)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.059 (-0.205)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.941 (0.104)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.486 (0.178)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.870 (0.181)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.876 (0.060)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.870 (0.183)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.875 (0.057)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.940 (0.107)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.485 (0.176)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.833 -0.412} (1.879 D) Ratio: 1.29
+Current objective value: 20.145393 ( En: 6.145393  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.871   H1 0.368   C2 C5 0.107   C3 C4 -0.216   
+Iteration: 109
+N1 QME: -7.532 MME: -7.745 (-0.214)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.059 (-0.205)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.941 (0.104)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.486 (0.178)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.870 (0.181)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.876 (0.060)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.870 (0.183)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.875 (0.057)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.940 (0.107)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.485 (0.176)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.833 -0.412} (1.879 D) Ratio: 1.29
+Current objective value: 20.145393 ( En: 6.145393  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.945   H1 0.343   C2 C5 0.181   C3 C4 -0.240   
+Iteration: 110
+N1 QME: -7.532 MME: -8.629 (-1.097)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.095 (0.759)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -1.061 (-0.016)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.751 (-0.088)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.767 (0.285)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.890 (0.046)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.766 (0.286)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.890 (0.042)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.061 (-0.014)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.750 (-0.089)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.890 -0.030} (1.890 D) Ratio: 1.30
+Current objective value: 59.319622 ( En: 49.069622  Dist: 10.250000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.945   H1 0.343   C2 C5 0.181   C3 C4 -0.240   
+Iteration: 111
+N1 QME: -7.532 MME: -8.629 (-1.097)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.095 (0.759)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -1.061 (-0.016)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.751 (-0.088)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.767 (0.285)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.890 (0.046)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.766 (0.286)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.890 (0.042)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.061 (-0.014)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.750 (-0.089)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.890 -0.030} (1.890 D) Ratio: 1.30
+Current objective value: 59.319622 ( En: 49.069622  Dist: 10.250000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.898   H1 0.345   C2 C5 0.139   C3 C4 -0.222   
+Iteration: 112
+N1 QME: -7.532 MME: -8.183 (-0.651)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.330 (0.524)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -0.975 (0.069)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.618 (0.045)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.842 (0.210)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.923 (0.012)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.841 (0.211)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.923 (0.010)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.975 (0.072)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.617 (0.044)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.016 1.947 -0.183} (1.955 D) Ratio: 1.34
+Current objective value: 30.276832 ( En: 20.026832  Dist: 10.250000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.905   H1 0.343   C2 C5 0.175   C3 C4 -0.254   
+Iteration: 113
+N1 QME: -7.532 MME: -8.052 (-0.521)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.418 (0.436)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -1.103 (-0.058)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.768 (-0.104)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.672 (0.379)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.756 (0.180)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.672 (0.381)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.756 (0.177)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.103 (-0.056)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.767 (-0.105)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.013 1.537 -0.075} (1.539 D) Ratio: 1.06
+Current objective value: 55.343624 ( En: 21.053577  Dist: 14.000000 Dipole: 20.290046 )
+
+
+Current test charges: N1 -0.905   H1 0.343   C2 C5 0.175   C3 C4 -0.254   
+Iteration: 114
+N1 QME: -7.532 MME: -8.052 (-0.521)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.418 (0.436)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -1.103 (-0.058)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.768 (-0.104)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.672 (0.379)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.756 (0.180)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.672 (0.381)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.756 (0.177)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.103 (-0.056)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.767 (-0.105)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.013 1.537 -0.075} (1.539 D) Ratio: 1.06
+Current objective value: 55.343624 ( En: 21.053577  Dist: 14.000000 Dipole: 20.290046 )
+
+
+Current test charges: N1 -0.885   H1 0.345   C2 C5 0.143   C3 C4 -0.233   
+Iteration: 115
+N1 QME: -7.532 MME: -7.945 (-0.414)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.466 (0.388)  QMD: 2.314 MMDistDelta: -0.100
+H21 QME: -1.045 MME: -1.015 (0.030)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.652 (0.011)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.773 (0.278)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.841 (0.095)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.773 (0.280)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.842 (0.091)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.014 (0.033)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.651 (0.010)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.739 -0.179} (1.749 D) Ratio: 1.20
+Current objective value: 22.668670 ( En: 12.418670  Dist: 10.250000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.815   H1 0.348   C2 C5 0.079   C3 C4 -0.206   
+Iteration: 116
+N1 QME: -7.532 MME: -7.282 (0.250)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.830 (0.024)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.885 (0.160)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.448 (0.216)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -0.892 (0.159)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.898 (0.037)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.892 (0.161)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.897 (0.035)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.884 (0.163)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.447 (0.215)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.841 -0.413} (1.887 D) Ratio: 1.30
+Current objective value: 23.032545 ( En: 6.532545  Dist: 16.500000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.815   H1 0.348   C2 C5 0.079   C3 C4 -0.206   
+Iteration: 117
+N1 QME: -7.532 MME: -7.282 (0.250)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.830 (0.024)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.885 (0.160)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.448 (0.216)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -0.892 (0.159)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.898 (0.037)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.892 (0.161)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.897 (0.035)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.884 (0.163)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.447 (0.215)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.841 -0.413} (1.887 D) Ratio: 1.30
+Current objective value: 23.032545 ( En: 6.532545  Dist: 16.500000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.893   H1 0.387   C2 C5 0.125   C3 C4 -0.232   
+Iteration: 118
+N1 QME: -7.532 MME: -7.763 (-0.231)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.524 (-0.670)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -1.011 (0.033)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.518 (0.145)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.795 (0.256)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.772 (0.163)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.795 (0.258)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.773 (0.160)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.011 (0.036)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.518 (0.144)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.013 1.607 -0.456} (1.670 D) Ratio: 1.15
+Current objective value: 36.721211 ( En: 18.270451  Dist: 15.750000 Dipole: 2.700760 )
+
+
+Current test charges: N1 -0.893   H1 0.387   C2 C5 0.125   C3 C4 -0.232   
+Iteration: 119
+N1 QME: -7.532 MME: -7.763 (-0.231)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.524 (-0.670)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -1.011 (0.033)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.518 (0.145)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.795 (0.256)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.772 (0.163)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.795 (0.258)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.773 (0.160)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.011 (0.036)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.518 (0.144)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.013 1.607 -0.456} (1.670 D) Ratio: 1.15
+Current objective value: 36.721211 ( En: 18.270451  Dist: 15.750000 Dipole: 2.700760 )
+
+
+Current test charges: N1 -0.876   H1 0.369   C2 C5 0.117   C3 C4 -0.224   
+Iteration: 120
+N1 QME: -7.532 MME: -7.738 (-0.206)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.106 (-0.252)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.973 (0.071)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.522 (0.141)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.828 (0.224)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.833 (0.103)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.827 (0.225)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.833 (0.099)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.973 (0.074)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.522 (0.140)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.733 -0.389} (1.776 D) Ratio: 1.22
+Current objective value: 20.929418 ( En: 6.929418  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.856   H1 0.377   C2 C5 0.130   C3 C4 -0.250   
+Iteration: 121
+N1 QME: -7.532 MME: -7.266 (0.265)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.592 (-0.738)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -1.069 (-0.025)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.588 (0.075)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.679 (0.372)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.644 (0.292)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.679 (0.374)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.642 (0.290)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.069 (-0.022)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.587 (0.074)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.011 1.257 -0.413} (1.323 D) Ratio: 0.91
+Current objective value: 128.208006 ( En: 26.883925  Dist: 17.000000 Dipole: 84.324080 )
+
+
+Current test charges: N1 -0.856   H1 0.377   C2 C5 0.130   C3 C4 -0.250   
+Iteration: 122
+N1 QME: -7.532 MME: -7.266 (0.265)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.592 (-0.738)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -1.069 (-0.025)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.588 (0.075)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.679 (0.372)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.644 (0.292)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.679 (0.374)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.642 (0.290)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.069 (-0.022)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.587 (0.074)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.011 1.257 -0.413} (1.323 D) Ratio: 0.91
+Current objective value: 128.208006 ( En: 26.883925  Dist: 17.000000 Dipole: 84.324080 )
+
+
+Current test charges: N1 -0.859   H1 0.367   C2 C5 0.121   C3 C4 -0.235   
+Iteration: 123
+N1 QME: -7.532 MME: -7.466 (0.066)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.221 (-0.367)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -1.013 (0.032)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.561 (0.103)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.756 (0.296)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.749 (0.186)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.755 (0.297)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.749 (0.183)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.012 (0.035)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.560 (0.101)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.013 1.514 -0.377} (1.561 D) Ratio: 1.07
+Current objective value: 41.563711 ( En: 10.141980  Dist: 15.250000 Dipole: 16.171731 )
+
+
+Current test charges: N1 -0.860   H1 0.362   C2 C5 0.117   C3 C4 -0.228   
+Iteration: 124
+N1 QME: -7.532 MME: -7.566 (-0.034)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.039 (-0.185)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.984 (0.060)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.547 (0.117)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.795 (0.257)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.802 (0.134)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.794 (0.258)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.803 (0.130)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.984 (0.063)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.546 (0.115)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.643 -0.360} (1.682 D) Ratio: 1.16
+Current objective value: 20.607115 ( En: 5.932105  Dist: 12.750000 Dipole: 1.925010 )
+
+
+Current test charges: N1 -0.941   H1 0.374   C2 C5 0.174   C3 C4 -0.251   
+Iteration: 125
+N1 QME: -7.532 MME: -8.295 (-0.764)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.988 (-0.134)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -1.101 (-0.056)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.691 (-0.027)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.717 (0.335)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.759 (0.176)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.716 (0.337)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.759 (0.173)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.101 (-0.054)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.690 (-0.028)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.013 1.590 -0.226} (1.606 D) Ratio: 1.10
+Current objective value: 46.853067 ( En: 22.387513  Dist: 15.250000 Dipole: 9.215554 )
+
+
+Current test charges: N1 -0.941   H1 0.374   C2 C5 0.174   C3 C4 -0.251   
+Iteration: 126
+N1 QME: -7.532 MME: -8.295 (-0.764)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.988 (-0.134)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -1.101 (-0.056)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.691 (-0.027)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.717 (0.335)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.759 (0.176)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.716 (0.337)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.759 (0.173)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.101 (-0.054)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.690 (-0.028)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.013 1.590 -0.226} (1.606 D) Ratio: 1.10
+Current objective value: 46.853067 ( En: 22.387513  Dist: 15.250000 Dipole: 9.215554 )
+
+
+Current test charges: N1 -0.906   H1 0.367   C2 C5 0.147   C3 C4 -0.238   
+Iteration: 127
+N1 QME: -7.532 MME: -8.009 (-0.477)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.944 (-0.090)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -1.039 (0.006)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.622 (0.042)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.765 (0.286)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.798 (0.138)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.764 (0.288)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.798 (0.134)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.039 (0.008)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.621 (0.040)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.661 -0.279} (1.684 D) Ratio: 1.16
+Current objective value: 28.067831 ( En: 11.031063  Dist: 15.250000 Dipole: 1.786769 )
+
+
+Current test charges: N1 -0.888   H1 0.363   C2 C5 0.134   C3 C4 -0.232   
+Iteration: 128
+N1 QME: -7.532 MME: -7.866 (-0.334)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.921 (-0.067)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -1.008 (0.037)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.587 (0.076)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.790 (0.262)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.817 (0.119)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.789 (0.263)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.818 (0.115)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.008 (0.040)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.586 (0.075)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.697 -0.305} (1.724 D) Ratio: 1.18
+Current objective value: 20.368016 ( En: 7.388500  Dist: 12.750000 Dipole: 0.229516 )
+
+
+Current test charges: N1 -0.851   H1 0.387   C2 C5 0.086   C3 C4 -0.214   
+Iteration: 129
+N1 QME: -7.532 MME: -7.395 (0.136)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.692 (-0.838)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -0.927 (0.117)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.396 (0.268)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -0.876 (0.175)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.820 (0.115)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.876 (0.177)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.820 (0.112)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.927 (0.120)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.395 (0.266)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.703 -0.587} (1.801 D) Ratio: 1.24
+Current objective value: 42.727581 ( En: 24.477581  Dist: 18.250000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.851   H1 0.387   C2 C5 0.086   C3 C4 -0.214   
+Iteration: 130
+N1 QME: -7.532 MME: -7.395 (0.136)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.692 (-0.838)  QMD: 2.314 MMDistDelta: -0.200
+H21 QME: -1.045 MME: -0.927 (0.117)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.396 (0.268)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -0.876 (0.175)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.820 (0.115)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.876 (0.177)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.820 (0.112)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.927 (0.120)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.395 (0.266)  QMD: 2.839 MMDistDelta: 0.150
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.703 -0.587} (1.801 D) Ratio: 1.24
+Current objective value: 42.727581 ( En: 24.477581  Dist: 18.250000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.861   H1 0.375   C2 C5 0.103   C3 C4 -0.220   
+Iteration: 131
+N1 QME: -7.532 MME: -7.551 (-0.019)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.333 (-0.479)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.951 (0.093)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.467 (0.197)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.847 (0.204)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.826 (0.110)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.847 (0.206)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.826 (0.106)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.951 (0.096)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.466 (0.195)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.713 -0.472} (1.777 D) Ratio: 1.22
+Current objective value: 24.800893 ( En: 10.800893  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.866   H1 0.369   C2 C5 0.111   C3 C4 -0.222   
+Iteration: 132
+N1 QME: -7.532 MME: -7.629 (-0.097)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.162 (-0.308)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.963 (0.081)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.503 (0.160)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.833 (0.219)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.829 (0.107)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.832 (0.220)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.829 (0.103)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.963 (0.084)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.503 (0.159)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.718 -0.414} (1.768 D) Ratio: 1.21
+Current objective value: 21.178541 ( En: 7.178541  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.868   H1 0.366   C2 C5 0.115   C3 C4 -0.224   
+Iteration: 133
+N1 QME: -7.532 MME: -7.667 (-0.136)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.076 (-0.222)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.969 (0.075)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.522 (0.142)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.825 (0.226)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.831 (0.105)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.825 (0.227)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.831 (0.101)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.969 (0.078)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.521 (0.140)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.721 -0.385} (1.764 D) Ratio: 1.21
+Current objective value: 20.094348 ( En: 6.094348  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.860   H1 0.354   C2 C5 0.119   C3 C4 -0.226   
+Iteration: 134
+N1 QME: -7.532 MME: -7.633 (-0.102)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.827 (0.027)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.976 (0.068)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.562 (0.101)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.805 (0.247)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.830 (0.106)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.804 (0.248)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.831 (0.102)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.976 (0.071)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.561 (0.100)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.706 -0.313} (1.735 D) Ratio: 1.19
+Current objective value: 16.191961 ( En: 4.631271  Dist: 11.500000 Dipole: 0.060690 )
+
+
+Current test charges: N1 -0.860   H1 0.354   C2 C5 0.119   C3 C4 -0.226   
+Iteration: 135
+N1 QME: -7.532 MME: -7.633 (-0.102)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.827 (0.027)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.976 (0.068)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.562 (0.101)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.805 (0.247)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.830 (0.106)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.804 (0.248)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.831 (0.102)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.976 (0.071)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.561 (0.100)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.706 -0.313} (1.735 D) Ratio: 1.19
+Current objective value: 16.191961 ( En: 4.631271  Dist: 11.500000 Dipole: 0.060690 )
+
+
+Current test charges: N1 -0.881   H1 0.360   C2 C5 0.120   C3 C4 -0.220   
+Iteration: 136
+N1 QME: -7.532 MME: -7.888 (-0.357)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.817 (0.037)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.958 (0.086)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.538 (0.126)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.852 (0.199)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.883 (0.052)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.851 (0.201)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.883 (0.049)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.958 (0.089)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.537 (0.124)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.851 -0.330} (1.881 D) Ratio: 1.29
+Current objective value: 20.512674 ( En: 6.512674  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.881   H1 0.360   C2 C5 0.120   C3 C4 -0.220   
+Iteration: 137
+N1 QME: -7.532 MME: -7.888 (-0.357)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.817 (0.037)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.958 (0.086)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.538 (0.126)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.852 (0.199)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.883 (0.052)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.851 (0.201)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.883 (0.049)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.958 (0.089)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.537 (0.124)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.851 -0.330} (1.881 D) Ratio: 1.29
+Current objective value: 20.512674 ( En: 6.512674  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.875   H1 0.361   C2 C5 0.119   C3 C4 -0.222   
+Iteration: 138
+N1 QME: -7.532 MME: -7.797 (-0.265)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.880 (-0.026)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.966 (0.079)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.540 (0.123)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.836 (0.216)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.860 (0.075)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.835 (0.217)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.860 (0.072)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.965 (0.082)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.539 (0.122)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.793 -0.338} (1.824 D) Ratio: 1.25
+Current objective value: 19.464739 ( En: 5.464739  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.839   H1 0.357   C2 C5 0.091   C3 C4 -0.211   
+Iteration: 139
+N1 QME: -7.532 MME: -7.467 (0.065)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.950 (-0.096)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.911 (0.134)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.463 (0.200)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -0.880 (0.172)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.884 (0.052)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.879 (0.173)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.883 (0.050)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.910 (0.137)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.463 (0.199)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.826 -0.416} (1.873 D) Ratio: 1.29
+Current objective value: 20.103392 ( En: 4.853392  Dist: 15.250000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.839   H1 0.357   C2 C5 0.091   C3 C4 -0.211   
+Iteration: 140
+N1 QME: -7.532 MME: -7.467 (0.065)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.950 (-0.096)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.911 (0.134)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.463 (0.200)  QMD: 2.836 MMDistDelta: 0.150
+H31 QME: -1.052 MME: -0.880 (0.172)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.884 (0.052)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.879 (0.173)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.883 (0.050)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.910 (0.137)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.463 (0.199)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.015 1.826 -0.416} (1.873 D) Ratio: 1.29
+Current objective value: 20.103392 ( En: 4.853392  Dist: 15.250000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.846   H1 0.346   C2 C5 0.118   C3 C4 -0.229   
+Iteration: 141
+N1 QME: -7.532 MME: -7.495 (0.037)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.721 (0.133)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.983 (0.062)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.585 (0.078)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.780 (0.272)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.811 (0.125)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.779 (0.273)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.812 (0.121)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.982 (0.065)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.584 (0.077)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.013 1.645 -0.279} (1.668 D) Ratio: 1.15
+Current objective value: 21.031972 ( En: 5.449751  Dist: 12.750000 Dipole: 2.832221 )
+
+
+Current test charges: N1 -0.846   H1 0.346   C2 C5 0.118   C3 C4 -0.229   
+Iteration: 142
+N1 QME: -7.532 MME: -7.495 (0.037)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.721 (0.133)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.983 (0.062)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.585 (0.078)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.780 (0.272)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.811 (0.125)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.779 (0.273)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.812 (0.121)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.982 (0.065)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.584 (0.077)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.013 1.645 -0.279} (1.668 D) Ratio: 1.15
+Current objective value: 21.031972 ( En: 5.449751  Dist: 12.750000 Dipole: 2.832221 )
+
+
+Current test charges: N1 -0.853   H1 0.352   C2 C5 0.115   C3 C4 -0.225   
+Iteration: 143
+N1 QME: -7.532 MME: -7.566 (-0.034)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.817 (0.037)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.970 (0.074)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.557 (0.106)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.805 (0.246)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.829 (0.106)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.805 (0.248)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.830 (0.103)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.970 (0.077)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.556 (0.105)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.698 -0.317} (1.727 D) Ratio: 1.19
+Current objective value: 17.418618 ( En: 4.508324  Dist: 12.750000 Dipole: 0.160295 )
+
+
+Current test charges: N1 -0.894   H1 0.358   C2 C5 0.150   C3 C4 -0.242   
+Iteration: 144
+N1 QME: -7.532 MME: -7.902 (-0.371)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.801 (0.053)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -1.052 (-0.007)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.657 (0.006)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.734 (0.317)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.777 (0.159)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.733 (0.319)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.777 (0.155)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.052 (-0.005)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.656 (0.005)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.013 1.596 -0.228} (1.612 D) Ratio: 1.11
+Current objective value: 33.544059 ( En: 9.803853  Dist: 15.250000 Dipole: 8.490206 )
+
+
+Current test charges: N1 -0.894   H1 0.358   C2 C5 0.150   C3 C4 -0.242   
+Iteration: 145
+N1 QME: -7.532 MME: -7.902 (-0.371)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.801 (0.053)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -1.052 (-0.007)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.657 (0.006)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.734 (0.317)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.777 (0.159)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.733 (0.319)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.777 (0.155)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.052 (-0.005)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.656 (0.005)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.013 1.596 -0.228} (1.612 D) Ratio: 1.11
+Current objective value: 33.544059 ( En: 9.803853  Dist: 15.250000 Dipole: 8.490206 )
+
+
+Current test charges: N1 -0.878   H1 0.358   C2 C5 0.134   C3 C4 -0.233   
+Iteration: 146
+N1 QME: -7.532 MME: -7.779 (-0.248)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.843 (0.011)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -1.011 (0.033)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.602 (0.061)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.775 (0.277)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.806 (0.129)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.774 (0.279)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.807 (0.125)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -1.011 (0.036)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.602 (0.060)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.661 -0.281} (1.684 D) Ratio: 1.16
+Current objective value: 22.236493 ( En: 6.449028  Dist: 14.000000 Dipole: 1.787465 )
+
+
+Current test charges: N1 -0.871   H1 0.358   C2 C5 0.125   C3 C4 -0.229   
+Iteration: 147
+N1 QME: -7.532 MME: -7.718 (-0.186)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.864 (-0.010)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.991 (0.054)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.575 (0.088)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.795 (0.257)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.821 (0.114)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.794 (0.258)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.822 (0.110)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.991 (0.056)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.574 (0.087)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.693 -0.308} (1.721 D) Ratio: 1.18
+Current objective value: 17.135117 ( En: 5.343524  Dist: 11.500000 Dipole: 0.291593 )
+
+
+Current test charges: N1 -0.857   H1 0.342   C2 C5 0.125   C3 C4 -0.228   
+Iteration: 148
+N1 QME: -7.532 MME: -7.665 (-0.133)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.540 (0.314)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.983 (0.062)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.606 (0.057)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.790 (0.262)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.840 (0.095)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.789 (0.263)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.841 (0.092)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.983 (0.065)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.605 (0.056)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.720 -0.232} (1.735 D) Ratio: 1.19
+Current objective value: 18.711831 ( En: 7.157924  Dist: 11.500000 Dipole: 0.053908 )
+
+
+Current test charges: N1 -0.857   H1 0.342   C2 C5 0.125   C3 C4 -0.228   
+Iteration: 149
+N1 QME: -7.532 MME: -7.665 (-0.133)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.540 (0.314)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.983 (0.062)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.606 (0.057)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.790 (0.262)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.840 (0.095)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.789 (0.263)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.841 (0.092)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.983 (0.065)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.605 (0.056)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.720 -0.232} (1.735 D) Ratio: 1.19
+Current objective value: 18.711831 ( En: 7.157924  Dist: 11.500000 Dipole: 0.053908 )
+
+
+Current test charges: N1 -0.840   H1 0.341   C2 C5 0.122   C3 C4 -0.232   
+Iteration: 150
+N1 QME: -7.532 MME: -7.435 (0.096)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.639 (0.215)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.995 (0.049)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.612 (0.051)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.755 (0.296)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.793 (0.143)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.754 (0.298)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.794 (0.139)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.995 (0.052)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.611 (0.050)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.013 1.593 -0.245} (1.612 D) Ratio: 1.11
+Current objective value: 30.823469 ( En: 7.045467  Dist: 15.250000 Dipole: 8.528003 )
+
+
+Current test charges: N1 -0.840   H1 0.341   C2 C5 0.122   C3 C4 -0.232   
+Iteration: 151
+N1 QME: -7.532 MME: -7.435 (0.096)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.639 (0.215)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.995 (0.049)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.612 (0.051)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.755 (0.296)  QMD: 2.857 MMDistDelta: 0.150
+H32 QME: -0.936 MME: -0.793 (0.143)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.754 (0.298)  QMD: 2.859 MMDistDelta: 0.150
+H42 QME: -0.932 MME: -0.794 (0.139)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.995 (0.052)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.611 (0.050)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.013 1.593 -0.245} (1.612 D) Ratio: 1.11
+Current objective value: 30.823469 ( En: 7.045467  Dist: 15.250000 Dipole: 8.528003 )
+
+
+Current test charges: N1 -0.850   H1 0.346   C2 C5 0.121   C3 C4 -0.229   
+Iteration: 152
+N1 QME: -7.532 MME: -7.538 (-0.006)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.707 (0.147)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.987 (0.058)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.592 (0.072)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.778 (0.274)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.812 (0.124)  QMD: 2.845 MMDistDelta: 0.150
+H41 QME: -1.052 MME: -0.777 (0.275)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.812 (0.120)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.987 (0.060)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.591 (0.070)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.649 -0.271} (1.671 D) Ratio: 1.15
+Current objective value: 20.849892 ( En: 5.481105  Dist: 12.750000 Dipole: 2.618787 )
+
+
+Current test charges: N1 -0.855   H1 0.349   C2 C5 0.121   C3 C4 -0.228   
+Iteration: 153
+N1 QME: -7.532 MME: -7.589 (-0.057)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.741 (0.113)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.983 (0.062)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.582 (0.082)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.789 (0.263)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.821 (0.114)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.788 (0.264)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.822 (0.111)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.982 (0.065)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.581 (0.080)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.677 -0.284} (1.701 D) Ratio: 1.17
+Current objective value: 17.457946 ( En: 5.025097  Dist: 11.500000 Dipole: 0.932850 )
+
+
+Current test charges: N1 -0.862   H1 0.368   C2 C5 0.112   C3 C4 -0.225   
+Iteration: 154
+N1 QME: -7.532 MME: -7.572 (-0.041)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.174 (-0.320)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.973 (0.072)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.515 (0.148)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.815 (0.237)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.810 (0.126)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.814 (0.238)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.810 (0.122)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.973 (0.074)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.515 (0.147)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.668 -0.407} (1.717 D) Ratio: 1.18
+Current objective value: 21.928987 ( En: 7.540652  Dist: 14.000000 Dipole: 0.388335 )
+
+
+Current test charges: N1 -0.862   H1 0.368   C2 C5 0.112   C3 C4 -0.225   
+Iteration: 155
+N1 QME: -7.532 MME: -7.572 (-0.041)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -3.174 (-0.320)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.973 (0.072)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.515 (0.148)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.815 (0.237)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.810 (0.126)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.814 (0.238)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.810 (0.122)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.973 (0.074)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.515 (0.147)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.668 -0.407} (1.717 D) Ratio: 1.18
+Current objective value: 21.928987 ( En: 7.540652  Dist: 14.000000 Dipole: 0.388335 )
+
+
+Current test charges: N1 -0.861   H1 0.361   C2 C5 0.116   C3 C4 -0.226   
+Iteration: 156
+N1 QME: -7.532 MME: -7.599 (-0.067)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.994 (-0.140)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.976 (0.069)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.541 (0.122)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.808 (0.244)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.818 (0.117)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.807 (0.245)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.819 (0.113)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.975 (0.072)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.540 (0.121)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.683 -0.357} (1.720 D) Ratio: 1.18
+Current objective value: 18.312855 ( En: 5.255249  Dist: 12.750000 Dipole: 0.307606 )
+
+
+Current test charges: N1 -0.860   H1 0.357   C2 C5 0.118   C3 C4 -0.226   
+Iteration: 157
+N1 QME: -7.532 MME: -7.612 (-0.080)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.905 (-0.051)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.977 (0.068)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.554 (0.110)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.804 (0.248)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.823 (0.113)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.803 (0.249)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.823 (0.109)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.977 (0.070)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.553 (0.108)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.690 -0.333} (1.723 D) Ratio: 1.18
+Current objective value: 16.513137 ( En: 4.755187  Dist: 11.500000 Dipole: 0.257949 )
+
+
+Current test charges: N1 -0.867   H1 0.363   C2 C5 0.116   C3 C4 -0.224   
+Iteration: 158
+N1 QME: -7.532 MME: -7.682 (-0.150)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.987 (-0.133)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.970 (0.074)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.534 (0.129)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.822 (0.229)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.835 (0.101)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.821 (0.231)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.835 (0.097)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.970 (0.077)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.533 (0.128)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.729 -0.361} (1.766 D) Ratio: 1.21
+Current objective value: 19.254419 ( En: 5.254419  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.867   H1 0.363   C2 C5 0.116   C3 C4 -0.224   
+Iteration: 159
+N1 QME: -7.532 MME: -7.682 (-0.150)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.987 (-0.133)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.970 (0.074)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.534 (0.129)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.822 (0.229)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.835 (0.101)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.821 (0.231)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.835 (0.097)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.970 (0.077)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.533 (0.128)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.729 -0.361} (1.766 D) Ratio: 1.21
+Current objective value: 19.254419 ( En: 5.254419  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.864   H1 0.359   C2 C5 0.118   C3 C4 -0.225   
+Iteration: 160
+N1 QME: -7.532 MME: -7.655 (-0.124)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.918 (-0.064)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.974 (0.071)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.548 (0.116)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.813 (0.239)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.831 (0.104)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.812 (0.240)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.832 (0.101)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.973 (0.074)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.547 (0.114)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.714 -0.339} (1.748 D) Ratio: 1.20
+Current objective value: 16.302200 ( En: 4.802200  Dist: 11.500000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.875   H1 0.362   C2 C5 0.124   C3 C4 -0.228   
+Iteration: 161
+N1 QME: -7.532 MME: -7.753 (-0.222)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.936 (-0.082)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.988 (0.057)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.562 (0.101)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.805 (0.247)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.826 (0.110)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.804 (0.248)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.826 (0.106)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.988 (0.059)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.561 (0.100)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.709 -0.329} (1.741 D) Ratio: 1.20
+Current objective value: 17.231747 ( En: 5.719860  Dist: 11.500000 Dipole: 0.011887 )
+
+
+Current test charges: N1 -0.875   H1 0.362   C2 C5 0.124   C3 C4 -0.228   
+Iteration: 162
+N1 QME: -7.532 MME: -7.753 (-0.222)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.936 (-0.082)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.988 (0.057)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.562 (0.101)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.805 (0.247)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.826 (0.110)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.804 (0.248)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.826 (0.106)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.988 (0.059)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.561 (0.100)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.709 -0.329} (1.741 D) Ratio: 1.20
+Current objective value: 17.231747 ( En: 5.719860  Dist: 11.500000 Dipole: 0.011887 )
+
+
+Current test charges: N1 -0.869   H1 0.359   C2 C5 0.122   C3 C4 -0.227   
+Iteration: 163
+N1 QME: -7.532 MME: -7.700 (-0.169)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.902 (-0.048)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.983 (0.062)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.561 (0.103)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.805 (0.247)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.827 (0.109)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.804 (0.248)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.827 (0.105)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.983 (0.064)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.560 (0.101)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.706 -0.326} (1.737 D) Ratio: 1.19
+Current objective value: 16.660401 ( En: 5.123731  Dist: 11.500000 Dipole: 0.036670 )
+
+
+Current test charges: N1 -0.851   H1 0.355   C2 C5 0.110   C3 C4 -0.222   
+Iteration: 164
+N1 QME: -7.532 MME: -7.547 (-0.016)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.891 (-0.037)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.958 (0.086)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.532 (0.132)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.822 (0.229)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.838 (0.097)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.822 (0.231)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.838 (0.094)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.958 (0.089)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.531 (0.130)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.722 -0.349} (1.757 D) Ratio: 1.21
+Current objective value: 18.383999 ( En: 4.383999  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.851   H1 0.355   C2 C5 0.110   C3 C4 -0.222   
+Iteration: 165
+N1 QME: -7.532 MME: -7.547 (-0.016)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.891 (-0.037)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.958 (0.086)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.532 (0.132)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.822 (0.229)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.838 (0.097)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.822 (0.231)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.838 (0.094)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.958 (0.089)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.531 (0.130)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.722 -0.349} (1.757 D) Ratio: 1.21
+Current objective value: 18.383999 ( En: 4.383999  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.857   H1 0.356   C2 C5 0.114   C3 C4 -0.224   
+Iteration: 166
+N1 QME: -7.532 MME: -7.595 (-0.064)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.883 (-0.029)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.967 (0.077)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.544 (0.119)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.815 (0.237)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.833 (0.102)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.814 (0.238)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.834 (0.099)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.967 (0.080)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.543 (0.118)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.714 -0.338} (1.747 D) Ratio: 1.20
+Current objective value: 18.466086 ( En: 4.466086  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.859   H1 0.356   C2 C5 0.116   C3 C4 -0.225   
+Iteration: 167
+N1 QME: -7.532 MME: -7.620 (-0.088)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.880 (-0.026)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.972 (0.073)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.550 (0.113)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.811 (0.241)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.831 (0.105)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.810 (0.242)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.832 (0.101)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.971 (0.076)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.549 (0.112)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.710 -0.332} (1.742 D) Ratio: 1.20
+Current objective value: 17.322097 ( En: 4.563252  Dist: 12.750000 Dipole: 0.008845 )
+
+
+Current test charges: N1 -0.861   H1 0.356   C2 C5 0.117   C3 C4 -0.225   
+Iteration: 168
+N1 QME: -7.532 MME: -7.632 (-0.100)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.878 (-0.024)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.974 (0.071)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.553 (0.110)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.809 (0.243)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.830 (0.106)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.808 (0.244)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.830 (0.102)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.974 (0.073)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.552 (0.109)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.708 -0.329} (1.739 D) Ratio: 1.20
+Current objective value: 16.147479 ( En: 4.625272  Dist: 11.500000 Dipole: 0.022207 )
+
+
+Current test charges: N1 -0.850   H1 0.352   C2 C5 0.112   C3 C4 -0.224   
+Iteration: 169
+N1 QME: -7.532 MME: -7.539 (-0.007)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.831 (0.023)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.964 (0.081)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.547 (0.116)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.812 (0.240)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.833 (0.103)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.811 (0.241)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.833 (0.099)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.964 (0.083)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.547 (0.115)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.705 -0.327} (1.737 D) Ratio: 1.19
+Current objective value: 18.465338 ( En: 4.425125  Dist: 14.000000 Dipole: 0.040213 )
+
+
+Current test charges: N1 -0.850   H1 0.352   C2 C5 0.112   C3 C4 -0.224   
+Iteration: 170
+N1 QME: -7.532 MME: -7.539 (-0.007)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.831 (0.023)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.964 (0.081)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.547 (0.116)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.812 (0.240)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.833 (0.103)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.811 (0.241)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.833 (0.099)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.964 (0.083)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.547 (0.115)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.705 -0.327} (1.737 D) Ratio: 1.19
+Current objective value: 18.465338 ( En: 4.425125  Dist: 14.000000 Dipole: 0.040213 )
+
+
+Current test charges: N1 -0.855   H1 0.354   C2 C5 0.115   C3 C4 -0.225   
+Iteration: 171
+N1 QME: -7.532 MME: -7.584 (-0.053)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.851 (0.003)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.969 (0.075)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.551 (0.112)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.810 (0.242)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.831 (0.105)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.809 (0.243)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.832 (0.101)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.969 (0.078)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.550 (0.111)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.706 -0.327} (1.737 D) Ratio: 1.19
+Current objective value: 18.498490 ( En: 4.459294  Dist: 14.000000 Dipole: 0.039196 )
+
+
+Current test charges: N1 -0.858   H1 0.355   C2 C5 0.116   C3 C4 -0.225   
+Iteration: 172
+N1 QME: -7.532 MME: -7.607 (-0.076)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.861 (-0.007)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.972 (0.073)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.553 (0.111)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.809 (0.243)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.830 (0.105)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.808 (0.244)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.831 (0.102)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.972 (0.075)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.552 (0.109)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.706 -0.327} (1.737 D) Ratio: 1.19
+Current objective value: 16.063329 ( En: 4.524637  Dist: 11.500000 Dipole: 0.038693 )
+
+
+Current test charges: N1 -0.860   H1 0.354   C2 C5 0.117   C3 C4 -0.224   
+Iteration: 173
+N1 QME: -7.532 MME: -7.652 (-0.120)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.807 (0.047)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.969 (0.075)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.556 (0.108)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.815 (0.237)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.842 (0.094)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.814 (0.238)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.842 (0.091)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.969 (0.078)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.555 (0.106)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.734 -0.315} (1.762 D) Ratio: 1.21
+Current objective value: 17.282459 ( En: 4.532459  Dist: 12.750000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.860   H1 0.354   C2 C5 0.117   C3 C4 -0.224   
+Iteration: 174
+N1 QME: -7.532 MME: -7.652 (-0.120)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.807 (0.047)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.969 (0.075)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.556 (0.108)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.815 (0.237)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.842 (0.094)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.814 (0.238)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.842 (0.091)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.969 (0.078)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.555 (0.106)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.734 -0.315} (1.762 D) Ratio: 1.21
+Current objective value: 17.282459 ( En: 4.532459  Dist: 12.750000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.860   H1 0.355   C2 C5 0.117   C3 C4 -0.225   
+Iteration: 175
+N1 QME: -7.532 MME: -7.640 (-0.109)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.834 (0.020)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.971 (0.073)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.555 (0.108)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.812 (0.240)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.836 (0.099)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.811 (0.241)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.837 (0.096)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.971 (0.076)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.554 (0.107)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.721 -0.320} (1.751 D) Ratio: 1.20
+Current objective value: 16.032962 ( En: 4.532962  Dist: 11.500000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.853   H1 0.350   C2 C5 0.117   C3 C4 -0.225   
+Iteration: 176
+N1 QME: -7.532 MME: -7.588 (-0.056)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.752 (0.102)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.972 (0.072)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.567 (0.096)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.803 (0.249)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.833 (0.103)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.802 (0.250)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.833 (0.099)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.972 (0.075)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.566 (0.095)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.705 -0.298} (1.731 D) Ratio: 1.19
+Current objective value: 16.290120 ( En: 4.690920  Dist: 11.500000 Dipole: 0.099200 )
+
+
+Current test charges: N1 -0.853   H1 0.350   C2 C5 0.117   C3 C4 -0.225   
+Iteration: 177
+N1 QME: -7.532 MME: -7.588 (-0.056)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.752 (0.102)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.972 (0.072)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.567 (0.096)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.803 (0.249)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.833 (0.103)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.802 (0.250)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.833 (0.099)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.972 (0.075)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.566 (0.095)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.705 -0.298} (1.731 D) Ratio: 1.19
+Current objective value: 16.290120 ( En: 4.690920  Dist: 11.500000 Dipole: 0.099200 )
+
+
+Current test charges: N1 -0.856   H1 0.352   C2 C5 0.117   C3 C4 -0.225   
+Iteration: 178
+N1 QME: -7.532 MME: -7.607 (-0.075)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.799 (0.055)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.973 (0.072)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.562 (0.102)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.806 (0.246)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.832 (0.103)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.805 (0.247)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.833 (0.100)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.972 (0.075)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.561 (0.100)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.708 -0.310} (1.736 D) Ratio: 1.19
+Current objective value: 16.102033 ( En: 4.554826  Dist: 11.500000 Dipole: 0.047207 )
+
+
+Current test charges: N1 -0.857   H1 0.355   C2 C5 0.115   C3 C4 -0.224   
+Iteration: 179
+N1 QME: -7.532 MME: -7.604 (-0.072)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.856 (-0.003)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.968 (0.077)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.548 (0.115)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.814 (0.238)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.835 (0.100)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.813 (0.239)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.836 (0.097)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.967 (0.080)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.547 (0.114)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.717 -0.330} (1.749 D) Ratio: 1.20
+Current objective value: 18.424572 ( En: 4.424572  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.857   H1 0.355   C2 C5 0.115   C3 C4 -0.224   
+Iteration: 180
+N1 QME: -7.532 MME: -7.604 (-0.072)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.856 (-0.003)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.968 (0.077)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.548 (0.115)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.814 (0.238)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.835 (0.100)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.813 (0.239)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.836 (0.097)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.967 (0.080)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.547 (0.114)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.717 -0.330} (1.749 D) Ratio: 1.20
+Current objective value: 18.424572 ( En: 4.424572  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.858   H1 0.355   C2 C5 0.116   C3 C4 -0.225   
+Iteration: 181
+N1 QME: -7.532 MME: -7.612 (-0.081)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.848 (0.006)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.970 (0.075)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.552 (0.111)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.811 (0.240)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.834 (0.102)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.811 (0.242)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.834 (0.098)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.970 (0.077)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.551 (0.110)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.714 -0.325} (1.745 D) Ratio: 1.20
+Current objective value: 18.471443 ( En: 4.470821  Dist: 14.000000 Dipole: 0.000622 )
+
+
+Current test charges: N1 -0.858   H1 0.355   C2 C5 0.117   C3 C4 -0.225   
+Iteration: 182
+N1 QME: -7.532 MME: -7.616 (-0.085)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.844 (0.010)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.971 (0.073)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.554 (0.109)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.810 (0.242)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.833 (0.103)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.809 (0.243)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.833 (0.099)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.971 (0.076)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.553 (0.108)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.712 -0.323} (1.743 D) Ratio: 1.20
+Current objective value: 16.002184 ( En: 4.497470  Dist: 11.500000 Dipole: 0.004714 )
+
+
+Current test charges: N1 -0.855   H1 0.351   C2 C5 0.116   C3 C4 -0.224   
+Iteration: 183
+N1 QME: -7.532 MME: -7.600 (-0.068)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.775 (0.079)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.969 (0.076)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.560 (0.103)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.809 (0.243)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.837 (0.099)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.808 (0.244)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.837 (0.095)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.969 (0.078)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.559 (0.102)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.717 -0.307} (1.745 D) Ratio: 1.20
+Current objective value: 17.276999 ( En: 4.526343  Dist: 12.750000 Dipole: 0.000656 )
+
+
+Current test charges: N1 -0.855   H1 0.351   C2 C5 0.116   C3 C4 -0.224   
+Iteration: 184
+N1 QME: -7.532 MME: -7.600 (-0.068)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.775 (0.079)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.969 (0.076)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.560 (0.103)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.809 (0.243)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.837 (0.099)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.808 (0.244)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.837 (0.095)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.969 (0.078)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.559 (0.102)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.717 -0.307} (1.745 D) Ratio: 1.20
+Current objective value: 17.276999 ( En: 4.526343  Dist: 12.750000 Dipole: 0.000656 )
+
+
+Current test charges: N1 -0.856   H1 0.353   C2 C5 0.117   C3 C4 -0.225   
+Iteration: 185
+N1 QME: -7.532 MME: -7.609 (-0.077)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.804 (0.050)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.970 (0.074)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.558 (0.105)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.809 (0.243)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.835 (0.101)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.808 (0.244)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.835 (0.097)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.970 (0.077)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.557 (0.104)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.715 -0.313} (1.743 D) Ratio: 1.20
+Current objective value: 15.998399 ( En: 4.494661  Dist: 11.500000 Dipole: 0.003738 )
+
+
+Current test charges: N1 -0.860   H1 0.357   C2 C5 0.116   C3 C4 -0.224   
+Iteration: 186
+N1 QME: -7.532 MME: -7.633 (-0.101)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.880 (-0.026)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.970 (0.075)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.547 (0.116)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.815 (0.237)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.835 (0.101)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.814 (0.238)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.835 (0.097)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.969 (0.078)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.547 (0.115)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.720 -0.334} (1.752 D) Ratio: 1.20
+Current objective value: 18.540960 ( En: 4.540960  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.860   H1 0.357   C2 C5 0.116   C3 C4 -0.224   
+Iteration: 187
+N1 QME: -7.532 MME: -7.633 (-0.101)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.880 (-0.026)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.970 (0.075)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.547 (0.116)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.815 (0.237)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.835 (0.101)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.814 (0.238)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.835 (0.097)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.969 (0.078)  QMD: 2.777 MMDistDelta: 0.150
+H52 QME: -0.661 MME: -0.547 (0.115)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.720 -0.334} (1.752 D) Ratio: 1.20
+Current objective value: 18.540960 ( En: 4.540960  Dist: 14.000000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.859   H1 0.356   C2 C5 0.116   C3 C4 -0.225   
+Iteration: 188
+N1 QME: -7.532 MME: -7.625 (-0.094)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.857 (-0.003)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.971 (0.074)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.551 (0.112)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.812 (0.240)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.834 (0.101)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.811 (0.241)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.835 (0.098)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.970 (0.077)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.551 (0.111)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.717 -0.327} (1.747 D) Ratio: 1.20
+Current objective value: 17.254859 ( En: 4.504859  Dist: 12.750000 Dipole: 0.000000 )
+
+
+Current test charges: N1 -0.859   H1 0.355   C2 C5 0.117   C3 C4 -0.225   
+Iteration: 189
+N1 QME: -7.532 MME: -7.622 (-0.090)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.846 (0.008)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.971 (0.074)  QMD: 2.777 MMDistDelta: 0.150
+H22 QME: -0.663 MME: -0.553 (0.110)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.811 (0.241)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.834 (0.102)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.810 (0.242)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.834 (0.098)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.971 (0.076)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.553 (0.109)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.715 -0.324} (1.745 D) Ratio: 1.20
+Current objective value: 17.248857 ( En: 4.498628  Dist: 12.750000 Dipole: 0.000228 )
+
+
+Current test charges: N1 -0.858   H1 0.355   C2 C5 0.117   C3 C4 -0.225   
+Iteration: 190
+N1 QME: -7.532 MME: -7.620 (-0.088)  QMD: 3.031 MMDistDelta: 0.000
+H1 QME: -2.854 MME: -2.840 (0.014)  QMD: 2.314 MMDistDelta: -0.150
+H21 QME: -1.045 MME: -0.971 (0.073)  QMD: 2.777 MMDistDelta: 0.100
+H22 QME: -0.663 MME: -0.554 (0.109)  QMD: 2.836 MMDistDelta: 0.100
+H31 QME: -1.052 MME: -0.810 (0.241)  QMD: 2.857 MMDistDelta: 0.100
+H32 QME: -0.936 MME: -0.834 (0.102)  QMD: 2.845 MMDistDelta: 0.100
+H41 QME: -1.052 MME: -0.809 (0.243)  QMD: 2.859 MMDistDelta: 0.100
+H42 QME: -0.932 MME: -0.834 (0.098)  QMD: 2.823 MMDistDelta: 0.150
+H51 QME: -1.047 MME: -0.971 (0.076)  QMD: 2.777 MMDistDelta: 0.100
+H52 QME: -0.661 MME: -0.554 (0.108)  QMD: 2.839 MMDistDelta: 0.100
+Dipole -- QM: {0.010 1.282 -0.687} (1.455 D) MM: {0.014 1.714 -0.322} (1.744 D) Ratio: 1.20
+Current objective value: 16.000045 ( En: 4.498445  Dist: 11.500000 Dipole: 0.001601 )
+
+
+FINAL CHARGES
+N1 -0.856
+H1 0.353
+{C2 C5} 0.117
+{C3 C4} -0.225
+END
+
+ Be sure to check sum of charges for rounding errors!
