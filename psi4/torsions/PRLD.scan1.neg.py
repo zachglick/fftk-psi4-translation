@@ -1,0 +1,48 @@
+import psi4
+import qcelemental as qcel
+import optking
+
+psi4.set_memory('1 GB')
+psi4.set_output_file('PRLD.scan.out', False)
+
+mol = psi4.geometry("""
+0 1
+N1 0.843999981880188 0.4560000002384186 0.9229999780654907                        
+H2 1.371999979019165 0.4950000047683716 1.7979999780654907
+C3 1.6430000066757202 1.125 -0.11299999803304672
+H4 2.0 2.0969998836517334 0.24300000071525574
+H5 0.9869999885559082 1.3070000410079956 -0.9710000157356262
+C6 2.7790000438690186 0.15299999713897705 -0.5040000081062317
+H7 3.688999891281128 0.3840000033378601 0.05900000035762787
+H8 3.0309998989105225 0.22200000286102295 -1.565999984741211
+C9 2.2309999465942383 -1.2400000095367432 -0.1120000034570694
+H10 2.865999937057495 -1.7070000171661377 0.6470000147819519
+H11 2.184999942779541 -1.9279999732971191 -0.9620000123977661
+C12 0.8299999833106995 -0.9409999847412109 0.4690000116825104
+H13 0.5419999957084656 -1.6089999675750732 1.2860000133514404
+H14 0.06800000369548798 -1.0269999504089355 -0.3140000104904175
+""")
+
+# Coordinates are zero-indexed here
+xyzs = mol.geometry().np
+dihedral = qcel.util.measure_coordinates(xyzs,[5,9,12,0],True)
+
+scan = []
+
+for i in range(0,7):
+    fixD = {"ranged_dihedral": "(6 9 12 1 " + str(dihedral) + " " + str(dihedral) + ")"}
+    options = {
+        'basis': '6-31g*',
+        'mp2_type': 'df',
+        'geom_maxiter': 100,
+        'dynamic_level': 1,
+        }
+    psi4.set_options(options)
+    json_output = optking.optimize_psi4("mp2", **fixD)
+    E = json_output["energies"][-1]
+    scan.append((dihedral,E))
+    dihedral = dihedral - 15
+
+print(scan)
+#optimize("MP2/6-31G*")
+#D 6 9 12 1 s 6 -15
