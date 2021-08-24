@@ -25,7 +25,7 @@ H14 0.06800000369548798 -1.0269999504089355 -0.3140000104904175
 
 # Coordinates are zero-indexed here
 xyzs = mol.geometry().np
-dihedral = qcel.util.measure_coordinates(xyzs,[5,9,12,0],True)
+dihedral = qcel.util.measure_coordinates(xyzs,[5,8,11,0],True)
 
 scan = []
 
@@ -44,5 +44,3 @@ for i in range(0,7):
     dihedral = dihedral - 15
 
 print(scan)
-#optimize("MP2/6-31G*")
-#D 6 9 12 1 s 6 -15
