@@ -81,7 +81,7 @@ xyzs = np.array(xyzs)
 xyzs = np.reshape(xyzs, (-1,3))
 # coords are zero-indexed here:
 rAH = qcel.util.measure_coordinates(xyzs,[0,14],True) # in bohr
-dih = qcel.util.measure_coordinates(xyzs,[0,1,14,16],True) # in degrees
+dih = qcel.util.measure_coordinates(xyzs,[1,0,14,16],True) # in degrees
 
 bohr_to_ang = qcel.constants.conversion_factor("bohr", "angstrom")
 print(rAH * bohr_to_ang)
