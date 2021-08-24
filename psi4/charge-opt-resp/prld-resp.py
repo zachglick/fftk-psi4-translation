@@ -20,13 +20,20 @@ mol = psi4.geometry("""
     """)
 mol.update_geometry()
 
-options = { 'RESP_A' : 0.0005 }
-charges_1 = resp.resp([mol], [options])
-print(charges_1[0][1])
-resp.set_stage2_constraint(mol, charges_1[0][1], options)
-charges_2 = resp.resp([mol], [options])
+# First stage RESP fit
+options = { 'RESP_A' : 0.0005,
+            'RESB_B' : 0.1,
+            'METHOD_ESP': 'scf',
+            'BASIS_ESP' : '6-31g*'}
+
+charges_1 = resp.resp([mol], options)
+
+# Second stage RESP fit
+# By default, H atoms connected to the same C are contrained to be indentical.
+resp.set_stage2_constraint(mol, charges_1[1], options)
+charges_2 = resp.resp([mol], options)
 
 # Get RESP charges
 print("\nStage Two:\n")
 print('RESP Charges')
-print(charges_2[0][1])
+print(charges_2[1])
